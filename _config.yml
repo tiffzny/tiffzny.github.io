@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Tiffany
 middle_name: 
 last_name: Fields
-email: tiffzny@gmail.com
+email: tiffzny+ghweb@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  This is a website description.
+  Tiffany Fields - astronomy and science enthusiast.
 #footer_text: >
 #  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -19,7 +19,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ✨ # the emoji used as the favicon
 url: https://www.tiffanyfields.space #https://tiffzny.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -83,13 +83,13 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Tiffany's Posts  # your blog must have a name for it to show up in the nav bar
+blog_description: A few potentially-useful ramblings.
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # Comments
 disqus_shortname: al-folio # put your disqus shortname

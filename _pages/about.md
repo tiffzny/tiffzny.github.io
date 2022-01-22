@@ -2,22 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: University instructor, astronomy enthusiast, science communicator, dog owner
+subtitle: <font color='#a0a0a0'>University instructor, astronomy enthusiast, science communicator, dog owner</font>
 
 profile:
   align: right
   image: Tiffany_Cropped.jpg
   address: >
     <p>Halifax, Nova Scotia</p>
-    <p>tiffzny [at] gmail [dot] com</p>
+    <p>tiffzny/gmail/com</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Tiffany, excited about sharing the world of astronomy or math or science with you. 
+Here's some of the really neat positions I've held recently:
+* Physics Lab Instructor at Saint Mary's University
+* Astronomy Instructor at Washtenaw Community College
+* Educational Assistant at [WISEatlantic](http://wiseatlantic.ca/)
+* Telescope Operator & Tour Guide at the [Burke-Gaffney Observatory](https://www.ap.smu.ca/pr/bgo)
+* Planetarium Show Host at the [Discovery Centre](https://thediscoverycentre.ca/)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm into helping others understand things, understanding things, and making things work.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Find some blog posts and other information along the top menu.
