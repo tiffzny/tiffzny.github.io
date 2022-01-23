@@ -26,4 +26,4 @@ Here's some of the really neat positions I've held recently:
 
 I'm into helping others understand things, understanding things, and making things work.
 
-Find some blog posts and other information along the top menu.
+Find some blog posts and other information along the top menu, or not, because this website is currently a work-in-progress.
