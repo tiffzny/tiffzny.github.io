@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <font color='#a0a0a0'>University instructor, astronomy enthusiast, science communicator, dog owner</font>
+subtitle: <font color='#a0a0a0'>Observatory Keeper (aka Astronomy Technician) at Saint Mary's University for the Burke-Gaffney Observatory
+Also: university instructor, astronomy enthusiast, science communicator, dog owner</font>
 
 profile:
   align: right
   image: Tiffany_Cropped.jpg
   address: >
     <p>Halifax, Nova Scotia</p>
-    <p>tiffzny/gmail/com</p>
+    <p>tiffany.fields[at]smu.ca</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -18,6 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Tiffany, excited about sharing the world of astronomy or math or science with you. 
 Here's some of the really neat positions I've held recently:
+* Virtual Planetarium Show Presenter at [Astronomy in Action](https://www.astronomyinaction.com/)
 * Physics Lab Instructor at Saint Mary's University
 * Astronomy Instructor at Washtenaw Community College
 * Educational Assistant at [WISEatlantic](http://wiseatlantic.ca/)
