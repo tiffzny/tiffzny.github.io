@@ -17,6 +17,7 @@ social: true  # includes social icons at the bottom of the page
 Socials and other online links:
 
 * Twitter: [@tiffzny](https://twitter.com/tiffzny)
+* Look at the Moon Twitter: [@moonwowlook](https://twitter.com/moonwowlook)
 * Mastodon: [astrodon.social/@tiffzny](https://astrodon.social/@tiffzny)
 * GitHub: [@tiffzny](https://github.com/tiffzny)
 * Facebook: [fb.me/tiffzny](https://fb.me/tiffzny)
