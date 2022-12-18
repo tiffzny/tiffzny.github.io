@@ -19,6 +19,7 @@ Socials and other online links:
 * Twitter: [@tiffzny](https://twitter.com/tiffzny)
 * Mastodon: [tiffzny@astrodon.social](https://astrodon.social/@tiffzny)
 * GitHub: [@tiffzny](https://github.com/tiffzny)
+* Facebook: [fb.me/tiffzny](https://fb.me/tiffzny)
 * Instagram: [@tiffzny](https://instagram.com/tiffzny)
 * BeReal: @tiffzny
 * LinkedIn: [link](https://www.linkedin.com/in/tiffzny/)
