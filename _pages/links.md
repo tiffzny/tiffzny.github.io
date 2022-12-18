@@ -24,4 +24,4 @@ Socials and other online links:
 * BeReal: @tiffzny
 * LinkedIn: [link](https://www.linkedin.com/in/tiffzny/)
 * Email: tiffany [dot] fields @ smu [dot] ca
-* [Burke-Gaffney Observatory](https://www.observatory.smu.ca)
+* [Burke-Gaffney Observatory](https://observatory.smu.ca)
