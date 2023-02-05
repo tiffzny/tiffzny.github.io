@@ -18,7 +18,7 @@ Socials and other online links:
 
 * Twitter: [@tiffzny](https://twitter.com/tiffzny)
 * Look at the Moon Twitter: [@moonwowlook](https://twitter.com/moonwowlook)
-* Mastodon: [astrodon.social/@tiffzny](https://astrodon.social/@tiffzny)
+* Mastodon: [astrodon.social/@tiffzny](https://astrodon.social/@tiffzny)<a rel="me" href="https://astrodon.social/@tiffzny"></a>
 * GitHub: [@tiffzny](https://github.com/tiffzny)
 * Facebook: [fb.me/tiffzny](https://fb.me/tiffzny)
 * Instagram: [@tiffzny](https://instagram.com/tiffzny)
