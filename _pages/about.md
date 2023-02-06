@@ -26,6 +26,7 @@ Here's some of the neat positions I've held in the recent past:
 * Educational Assistant at [WISEatlantic](http://wiseatlantic.ca/)
 * Telescope Operator & Tour Guide at the [Burke-Gaffney Observatory](https://observatory.smu.ca)
 * Planetarium Show Host at the [Discovery Centre](https://thediscoverycentre.ca/)
+<a rel="me" href="https://astrodon.social/@tiffzny"></a>
 
 I'm into helping others understand things, understanding things, and making things work. I also have two dogs, both with space-themed names (Ripley and Kepler).
 
