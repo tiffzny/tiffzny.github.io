@@ -16,6 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 Socials and other online links:
 
+* Bluesky: [@tiffzny.bksy.social](https://bsky.app/profile/tiffzny.bsky.social)
 * Threads: [@tiffzny](https://www.threads.net/@tiffzny)
 * Twitter: [@tiffzny](https://twitter.com/tiffzny)
 * Look at the Moon Twitter: [@moonwowlook](https://twitter.com/moonwowlook)
