@@ -32,4 +32,4 @@ Socials and other online links:
 
 For the [Burke-Gaffney Observatory](https://observatory.smu.ca), check out how to interact with it on social media [on this webpage.](https://observatory.smu.ca/bgo-useme/howto)
 
-I recommend chatting with the BGO telescope either via [Mastodon toots](https://observatory.smu.ca/bgo-useme/mastodon-help), [text message](https://observatory.smu.ca/bgo-useme/text-help), or [email](https://observatory.smu.ca/bgo-useme/email-help). I am working on fixing the FB interface, Twitter is crumbling and still works great but who knows how long it'll work, and I hope that Threads gets integrated with Mastodon ASAP.
+I recommend chatting with the BGO telescope either via [Mastodon toots](https://observatory.smu.ca/bgo-useme/mastodon-help), [text message](https://observatory.smu.ca/bgo-useme/text-help), or [email](https://observatory.smu.ca/bgo-useme/email-help). I am working on fixing the FB interface, Twitter has killed the BGO's connection, and I hope that Threads gets integrated with Mastodon ASAP.
