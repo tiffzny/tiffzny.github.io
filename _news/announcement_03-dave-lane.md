@@ -5,7 +5,7 @@ date: 2024-03-31 22:00:00-0400
 inline: false
 ---
 
-<img src="/assets/img/BGO_Telsecope_Removal_small-file-ANIMATION.gif" alt="Short animation of Dave and Tiffany in the Observatory dome with the Burke-Gaffney Observatory telescope on the ground, attached to a crane""/>
+<img src="/assets/img/BGO_Telsecope_Removal_small-file-ANIMATION.gif" alt="Short animation of Dave and Tiffany in the Observatory dome with the Burke-Gaffney Observatory telescope on the ground, attached to a crane."/>
 
 *A version of this note was shared on my [personal Facebook page](https://fb.me/tiffzny).*
 
