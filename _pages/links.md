@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: links
 permalink: /links
 subtitle: <font color='#a0a0a0'>Where to find Tiffany online</font>
@@ -12,6 +12,7 @@ profile:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+nav: true
 ---
 
 Socials and other online links:

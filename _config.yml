@@ -84,7 +84,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: Tiffany's Posts  # your blog must have a name for it to show up in the nav bar
-blog_description: A few potentially-useful ramblings.
+blog_description: A few ramblings.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -109,7 +109,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

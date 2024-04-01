@@ -17,9 +17,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm Tiffany, excited about sharing the world of astronomy or math or science with you. 
-<b>I'm the (new!) Astronomy Technician for the [Burke-Gaffney Observatory](https://observatory.smu.ca) at Saint Mary's University in Halifax, NS.</b>
+<b>I'm the Astronomy Technician for the Astronomy & Physics department, including the [Burke-Gaffney Observatory](https://observatory.smu.ca), at Saint Mary's University in Halifax, NS.</b>
 
-Here's some of the neat positions I've held in the recent past:
+Here's some of the other neat positions I've held in the past:
 * Virtual Planetarium Show Presenter at [Astronomy in Action](https://www.astronomyinaction.com/)
 * Physics Lab Instructor at Saint Mary's University
 * Astronomy Instructor at Washtenaw Community College
@@ -30,4 +30,4 @@ Here's some of the neat positions I've held in the recent past:
 
 I'm into helping others understand things, understanding things, and making things work. I also have *three* dogs, all with space-adjacent names (Ripley, Kepler, and Nimbus).
 
-Find some blog posts and other information along the top menu, or not, because this website is currently a work-in-progress.
+Find some blog posts and other information along the top menu, or not, because this website is always a work-in-progress.
