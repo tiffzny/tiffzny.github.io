@@ -7,7 +7,7 @@ inline: false
 
 *A version of this note was shared on my [personal Facebook page](https://fb.me/tiffzny).*
 
-<img src="/assets/img/dlane-DaveLanepodium.png" alt="Dave Lane standing at a podium, wearing a formal outfit." width=780px/>
+<img src="/assets/img/dlane-DaveLanepodium.png" alt="Dave Lane standing at a podium, wearing a formal outfit at SMU." width=780px/>
 
 Whew, here we go: [We lost my mentor, colleague, and friend Dave Lane last Sunday.](https://memorials.rawalker.ca/david-lane/5400767/index.php) Dave was one of the largest influences in my life over the last ten years and while he's incredibly well-known for his contributions to astronomy (outreach, RASC, observatory automation, discoveries, publications, awards etc.), his joy in sailing, and his ability to always have the right spare parts on hand... he also had a profound personal impact on everyone that knew him. And he had a huge impact on me.
 
