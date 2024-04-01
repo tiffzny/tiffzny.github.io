@@ -5,11 +5,13 @@ date: 2024-03-31 22:00:00-0400
 inline: false
 ---
 
-<img src="/assets/img/BGO_Telsecope_Removal_small-file-ANIMATION.gif" alt="Short animation of Dave and Tiffany in the Observatory dome with the Burke-Gaffney Observatory telescope on the ground, attached to a crane"/>
-
 *A version of this note was shared on my [personal Facebook page](https://fb.me/tiffzny).*
 
+<img src="/assets/img/dlane-DaveLanepodium.png" alt="Dave Lane standing at a podium, wearing a formal outfit." width=780px/>
+
 Whew, here we go: [We lost my mentor, colleague, and friend Dave Lane last Sunday.](https://memorials.rawalker.ca/david-lane/5400767/index.php) Dave was one of the largest influences in my life over the last ten years and while he's incredibly well-known for his contributions to astronomy (outreach, RASC, observatory automation, discoveries, publications, awards etc.), his joy in sailing, and his ability to always have the right spare parts on hand... he also had a profound personal impact on everyone that knew him. And he had a huge impact on me.
+
+<img src="/assets/img/dlane-PXL_20220601_142437121.TS_exported_65522_1654098412644.jpg" style="float: left; margin-right: 1em" width="40%" height="40%" alt="Image from inside the BGO dome, Dave is standing on a ladder with his head inside the telescope, looking at Tiffany standing on the ground."/>
 
 He was witty, he was a do-er, he knew how to fix any problem he came across. When testing a solution to a problem, he'd joke "it'll either work or it won't!" and I've found myself incorporating that silly phrase into my own problem-solving adventures. 
 
@@ -21,14 +23,18 @@ After his retirement, he was happy to help when I ran into something new that we
 
 But we didn't get to. There's so much we didn't get to do, so many projects that were left unfinished, and so much more I could have learned.
 
+<img src="/assets/img/dlane-PXL_20220428_182518151.jpg" style="float: right; margin-left: 1em" width="40%" height="40%" alt="Image from inside the BGO dome, Dave is looking at his phone while standing underneath the telescope."/>
+
 And now I'm in charge of the Burke-Gaffney Observatory... by myself... By myself. He single-handedly built the BGO into the incredible facility it is today - automated, busy, connected to the world. And now it's just me.
 
 We knew Dave didn't have long shortly after his diagnosis, but his death hits so hard. I was lucky to have so much time with Dave and to work so closely with him, but I wish there could have been more.
 
 And I'll be damned if I don't keep spare parts around.
 
-My heart aches for Dave's family and many friends, and for Michelle Lane. Dave and his wife Michelle left (a substantial gift to SMU)[https://www.smu.ca/giving/david-lane] and (to NSCC)[https://www.nscc.ca/foundation/your-impact/impact-stories/stories/david-lane.asp] after Dave's death. (Star Finder - The David Lane Astronomy Outreach Program)[https://www.smu.ca/giving/david-lane] at SMU will be particularly important to me. 
+My heart aches for Dave's family and many friends, and for Michelle Lane. Dave and his wife Michelle left [a substantial gift to SMU](https://www.smu.ca/giving/david-lane) and [to NSCC](https://www.nscc.ca/foundation/your-impact/impact-stories/stories/david-lane.asp) after Dave's death. [Star Finder - The David Lane Astronomy Outreach Program](https://www.smu.ca/giving/david-lane) at SMU will be particularly important to me. 
 
 I have so many paper notes, photos, and audio and video recordings of Dave and I working together, or mostly just Dave teaching me what he knows. I've attached a small sample here. 
 
 Miss you, Dave. I'm always working to build upon what you've built.
+
+<img src="/assets/img/dlane-BGO_Telsecope_Removal_small-file-ANIMATION.gif" alt="Short animation of Dave and Tiffany in the Observatory dome with the Burke-Gaffney Observatory telescope on the ground, attached to a crane." width=780px/>
