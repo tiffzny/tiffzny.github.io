@@ -28,6 +28,6 @@ Here's some of the neat positions I've held in the recent past:
 * Planetarium Show Host at the [Discovery Centre](https://thediscoverycentre.ca/)
 <a rel="me" href="https://astrodon.social/@tiffzny"></a>
 
-I'm into helping others understand things, understanding things, and making things work. I also have two dogs, both with space-themed names (Ripley and Kepler).
+I'm into helping others understand things, understanding things, and making things work. I also have *three* dogs, all with space-adjacent names (Ripley, Kepler, and Nimbus).
 
 Find some blog posts and other information along the top menu, or not, because this website is currently a work-in-progress.
