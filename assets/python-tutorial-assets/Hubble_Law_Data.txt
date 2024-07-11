@@ -1,0 +1,22 @@
+# Hubble_Law_Data.txt
+#
+# Columns: 
+# 0: velocity [km/s]
+# 1: distance [Mpc]
+#
+# For Hubble's Law: v = H * d, where H is the Hubble Constant
+#
+4975  80
+335   8
+4740  84
+8579  127
+6728  100
+6820  95
+6225  90
+10197 129
+7428  106
+1508  20
+872   21
+11757 190
+7313  108
+9834  131

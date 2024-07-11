@@ -1,6 +1,6 @@
 ---
 layout: page
-title: links
+title: socials
 permalink: /links
 subtitle: <font color='#a0a0a0'>Where to find Tiffany online</font>
 
@@ -24,7 +24,7 @@ Socials and other online links:
 * Mastodon: [astrodon.social/@tiffzny](https://astrodon.social/@tiffzny)<a rel="me" href="https://astrodon.social/@tiffzny"></a>
 * Instagram: [@tiffzny](https://instagram.com/tiffzny)
 * BeReal: @tiffzny
-* LinkedIn: (just search my name, I generally don't use LinkedIn anyway)
+* LinkedIn: [@tiffzny](https://www.linkedin.com/in/tiffzny/)
 * GitHub: [@tiffzny](https://github.com/tiffzny)
 * Facebook: [fb.me/tiffzny](https://fb.me/tiffzny)
 * Email: tiffany [dot] fields @ smu [dot] ca
