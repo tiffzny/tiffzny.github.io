@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm Tiffany, excited about sharing the world of astronomy or math or science with you. 
-<b>I'm the Astronomy Technician for the Astronomy & Physics department, including the [Burke-Gaffney Observatory](https://observatory.smu.ca), at Saint Mary's University in Halifax, NS.</b>
+<b>I'm the Astronomy Technician for the Astronomy & Physics department, including the [Burke-Gaffney Observatory](https://observatory.smu.ca), at Saint Mary's University in Halifax, NS.</b> I love to look at the sky (and will gasp and exclaim "look at the moon!" whenever I notice it) and want to help you do the same.
 
 Here's some of the other neat positions I've held in the past:
 * Virtual Planetarium Show Presenter at [Astronomy in Action](https://www.astronomyinaction.com/)
