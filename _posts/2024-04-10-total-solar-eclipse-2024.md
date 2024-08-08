@@ -6,12 +6,13 @@ inline: false
 ---
 
 
-*THAT WAS INCREDIBLE.* I knew what to expect but seeing the total solar eclipse last Monday under a cloudless sky in Miramichi, New Brunswick was amazingly unexpected, incredible, unbelievable, wow. And, I'll repeat the thing here that I've said in-person and in interviews a bunch - **it's all about the experience!**
+Ok we have to start with - *THAT WAS INCREDIBLE.* I knew what to expect but seeing the total solar eclipse last Monday under a cloudless sky in Miramichi, New Brunswick was amazingly unexpected, incredible, unbelievable, wow. And, I'll repeat the thing here that I've said in-person and in interviews a bunch - **it's all about the experience!**
 
+I was lucky enough to travel to be in the path of totality, in the middle of New Brunswick, where we had the most spectacularly clear skies - something nearly unheard-of for early April in the Maritimes! Hilariously, I had *very strongly considered* booking a trip to southern Texas (as many astronomers and eclipse-chasers did) where the southernmost part of the path of totality was most likely to encounter clear skies, based on past weather data. The weather likes to play tricks on us, though, as it ended up being that much of Texas was actually cloudy during the total solar eclipse, even dealing with thunderstorms! I couldn't believe it, and felt incredibly lucky for staying put here in the Maritimes.
 
+Where to even begin? The days and weeks (and years) leading up to April 8, 2024 were filled with action: planning with a nation-wide committee to get eclipse glasses to as many schoolkids as possible throughout the country, working with folks across the university and across the city to organize a local-to-Halifax eclipse-viewing event, organizing with the students, spreading awareness through community presentations and media interviews, and taking a million phone calls from folks asking "where can I buy eclipse glasses?" - and I was honoured and thrilled to be part of it all.
 
 SMU hosted a [similar event back in 2017](https://news.smu.ca/news/2017/8/23/smu-solar-eclipse-viewing-event-a-success) for the "Great American Eclipse", where [Halifax experienced](https://www.timeanddate.com/eclipse/in/canada/halifax?iso=20170821) roughly 48.4% of the sun being covered by the moon.
-
 
 News items:
 * Photos shared on the [SMUScience Facebook page](https://www.facebook.com/media/set/?set=a.951054597022732&type=3) of the event at SMU (April 9, 2024)
