@@ -24,10 +24,9 @@ Here's some of the other neat positions I've held in the past:
 * Physics Lab Instructor at Saint Mary's University
 * Astronomy Instructor at Washtenaw Community College
 * Educational Assistant at [WISEatlantic](http://wiseatlantic.ca/)
-* Telescope Operator & Tour Guide at the [Burke-Gaffney Observatory](https://observatory.smu.ca)
 * Planetarium Show Host at the [Discovery Centre](https://thediscoverycentre.ca/)
 <a rel="me" href="https://astrodon.social/@tiffzny"></a>
 
-I'm into helping others understand things, understanding things, and making things work. I also have *three* dogs, all with space-adjacent names (Ripley, Kepler, and Nimbus).
+I'm into helping others understand things, understanding things, and making things work. I also have three dogs, all with space-adjacent names (Ripley, Kepler, and Nimbus).
 
 Find some blog posts and other information along the top menu, or not, because this website is always a work-in-progress.
