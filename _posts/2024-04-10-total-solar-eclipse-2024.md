@@ -5,18 +5,6 @@ date: 2024-04-15 10:00:00-0400
 inline: false
 ---
 
-<img src="/assets/img/dlane-DaveLanepodium.png" alt="Dave Lane standing at a podium, wearing a formal outfit at SMU." width=780px/>
-
-Whew, here we go: [We lost my mentor, colleague, and friend Dave Lane last Sunday.](https://memorials.rawalker.ca/david-lane/5400767/index.php) Dave was one of the largest influences in my life over the last ten years and while he's incredibly well-known for his contributions to astronomy (outreach, RASC, observatory automation, discoveries, publications, awards etc.), his joy in sailing, and his ability to always have the right spare parts on hand... he also had a profound personal impact on everyone that knew him. And he had a huge impact on me.
-
-<img src="/assets/img/dlane-PXL_20220601_142437121.TS_exported_65522_1654098412644.jpg" style="float: left; margin-right: 1em" width="40%" height="40%" alt="Image from inside the BGO dome, Dave is standing on a ladder with his head inside the telescope, looking at Tiffany standing on the ground."/>
-
-<img src="/assets/img/dlane-PXL_20220428_182518151.jpg" style="float: right; margin-left: 1em" width="40%" height="40%" alt="Image from inside the BGO dome, Dave is looking at his phone while standing underneath the telescope."/>
-
-<img src="/assets/img/dlane-BGO_Telsecope_Removal_small-file-ANIMATION.gif" alt="Short animation of Dave and Tiffany in the Observatory dome with the Burke-Gaffney Observatory telescope on the ground, attached to a crane." width=780px/>
-
-
-
 
 *THAT WAS INCREDIBLE.* I knew what to expect but seeing the total solar eclipse last Monday under a cloudless sky in Miramichi, New Brunswick was amazingly unexpected, incredible, unbelievable, wow. And, I'll repeat the thing here that I've said in-person and in interviews a bunch - **it's all about the experience!**
 
