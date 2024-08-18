@@ -1,13 +1,8 @@
 ---
 layout: page
-title: socials
+title: links
 permalink: /links
-subtitle: <font color='#a0a0a0'>Where to find Tiffany online</font>
-
-profile:
-  align: right
-  image: 
-  address: 
+description: Where to find Tiffany online
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -17,6 +12,7 @@ nav: true
 
 Socials and other online links:
 
+* Email: tiffany [dot] fields @ smu [dot] ca
 * Bluesky: [@tiffzny.bksy.social](https://bsky.app/profile/tiffzny.bsky.social)
 * Threads: [@tiffzny](https://www.threads.net/@tiffzny)
 * Twitter: [@tiffzny](https://twitter.com/tiffzny)
@@ -27,9 +23,6 @@ Socials and other online links:
 * LinkedIn: [@tiffzny](https://www.linkedin.com/in/tiffzny/)
 * GitHub: [@tiffzny](https://github.com/tiffzny)
 * Facebook: [fb.me/tiffzny](https://fb.me/tiffzny)
-* Email: tiffany [dot] fields @ smu [dot] ca
-* [Burke-Gaffney Observatory](https://observatory.smu.ca)
-
 
 For the [Burke-Gaffney Observatory](https://observatory.smu.ca), check out how to interact with it on social media [on this webpage.](https://observatory.smu.ca/bgo-useme/howto)
 

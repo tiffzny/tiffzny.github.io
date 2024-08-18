@@ -2,13 +2,13 @@
 layout: page
 title: media appearances
 permalink: /outreach-media
-subtitle: <font color='#a0a0a0'>Outreach efforts & media appearances</font>
+description: Outreach efforts & media appearances
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-nav: true
-subtitle: true
+nav: false
+subtitle: false
 ---
 
 *The list below is not a full list, as I track down media appearances and such from over the years. Consider it a work-in-progress.*
@@ -22,8 +22,8 @@ I'm grateful for the many opportunities I've had to engage with the public throu
 Much of my outreach work is inspired by two mentors of mine: [Dr. Rob Thacker](https://www.ap.smu.ca/~thacker) and the late [Dr. Dave Lane](/blog/2024/dave-lane/), who both have encouraged me endlessly in a variety of ways.
 
 ---
-
 #### Media appearances given in reverse-chronological order:
+---
 
 1. [to-be-updated] 2024-Aug-12: [CTV National live TV Anchor interview with Merella Fernandez](https://) about the peak of the Perseid meteor shower: *Interview title*
 1. 2024-Aug-12: [CTV Atlantic interview with Avery MacRae](https://atlantic.ctvnews.ca/northern-lights-perseid-meteor-shower-light-up-maritime-skies-1.6997687) about the previous night's northern lights and Perseid meteor shower show: *Northern lights, Perseid meteor shower light up Maritime skies*, article written by Natalie Lombard
