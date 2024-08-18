@@ -26,7 +26,7 @@ Much of my outreach work is inspired by two mentors of mine: [Dr. Rob Thacker](h
 #### Media appearances given in reverse-chronological order:
 
 1. [to-be-updated] 2024-Aug-12: [CTV National live TV Anchor interview with Merella Fernandez](https://) about the peak of the Perseid meteor shower: *Interview title*
-1. 2024-Aug-12: [CTV Atlantic interview with Avery MacRae](https://atlantic.ctvnews.ca/northern-lights-perseid-meteor-shower-light-up-maritime-skies-1.6997687) and article by Natalie Lombard about the previous night's northern lights and Perseid meteor shower show: *Northern lights, Perseid meteor shower light up Maritime skies*
+1. 2024-Aug-12: [CTV Atlantic interview with Avery MacRae](https://atlantic.ctvnews.ca/northern-lights-perseid-meteor-shower-light-up-maritime-skies-1.6997687) about the previous night's northern lights and Perseid meteor shower show: *Northern lights, Perseid meteor shower light up Maritime skies*, article written by Natalie Lombard
 1. 2024-Aug-09: [CTV Morning Live TV interview with host Ana Almeida ](https://atlantic.ctvnews.ca/video/c2974456-all-about-the-perseid-meteor-shower) about the Perseid Meteor Shower: *All about the Perseid Meteor Shower* (& [tweet](https://twitter.com/CTVMorningAtl/status/1821918484470648891))
 1. 2024-Jun-02: [CTV National TV interview with Kamil Karamali](https://www.ctvnews.ca/video/c2933181-ctv-national-news---parade-of-planets-?__vfz=medium%3Dsharebar) about the "Planetary Parade" in the early morning hours: *CTV National News: 'Parade of planets'* (& [tweet](https://x.com/CTVNews/status/1797475769129570773))
 1. [to-be-updated] 2024-May-31: [CTV National TV interview with Kamil Karamali](https://) about potential upcoming aurora: *Interview Title*
