@@ -66,4 +66,12 @@ Much of my outreach work is inspired by two mentors of mine: [Dr. Rob Thacker](h
 1. 2022-Feb-26: [Feature in John Read's Learn to Stargaze YouTube channel](https://www.youtube.com/watch?v=wZs51znVTmc), racing between observing in two different telescopes: *Can Celestron StarSense be Moved to Another Telescope?*
 1. 2017-Aug-23: [Featured in SMU News article](https://smunews.squarespace.com/news/2017/8/23/smu-solar-eclipse-viewing-event-a-success) regarding the solar eclipse viewing event on SMU campus: *SMU solar eclipse viewing event a success*
 1. 2017-Aug-18: [The News, New Glasgow, NS ](assets/article-pdfs/2017-Aug-18-TheNews-Eclipse.pdf) interview for print regarding solar eclipse viewing safety (PDF provided, original article no longer online) *Solar eclipse: look, but don't look*
+1. 2016-Aug-01: [Interview with Toni Feder at Physics Today](https://pubs.aip.org/physicstoday/article-abstract/69/8/26/1040831/Social-media-opens-telescope-operations-to-the) (in-print) for article about the social-media connection of the Burke-Gaffney Observatory: *Social media opens telescope operations to the world* (Vol 69, Issue 8)
 {: reversed="reversed"}
+
+---
+#### Some additional important-to-me news articles:
+
+* [Amateur astronomer David Lane lived with his head in the stars and his heart on the water](https://www.theglobeandmail.com/life/article-amateur-astronomer-david-lane-lived-with-his-head-in-the-stars-and-his/), Globe & Mail *Lives Lived* 2024-Jul-18
+* [Pioneering N.S. astronomer remembered for 'connecting people with the universe'](https://www.cbc.ca/news/canada/nova-scotia/david-lane-astronomer-dead-nova-scotia-st-mary-s-university-telescope-1.7160453) CBC News, 2024-Apr-01
+* [SMU's new high-tech telescope takes stargazing to new level](https://atlantic.ctvnews.ca/smu-s-new-high-tech-telescope-takes-stargazing-to-new-level-1.2077912#) CTV Atlantic, 2014-Oct-29
