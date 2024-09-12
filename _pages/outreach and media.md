@@ -25,6 +25,7 @@ Much of my outreach work is inspired by two mentors of mine: [Dr. Rob Thacker](h
 #### Media appearances given in reverse-chronological order:
 ---
 
+1. 2024-Sept-10: [CTV National TV interview with Paul Hollingsworth](https://www.ctvnews.ca/video/c2991640-ctv-national-news--daring-new-space-mission?playlistId=1.7033259&binId=1.810415) commenting on the SpaceX Polaris Dawn mission after a successful launch: *CTV National News: Daring new space mission*
 1. [to-be-updated] 2024-Aug-12: [CTV National live TV Anchor interview with Merella Fernandez](https://) about the peak of the Perseid meteor shower: *Interview title*
 1. 2024-Aug-12: [CTV Atlantic interview with Avery MacRae](https://atlantic.ctvnews.ca/northern-lights-perseid-meteor-shower-light-up-maritime-skies-1.6997687) about the previous night's northern lights and Perseid meteor shower show: *Northern lights, Perseid meteor shower light up Maritime skies*, article written by Natalie Lombard
 1. 2024-Aug-09: [CTV Morning Live TV interview with host Ana Almeida ](https://atlantic.ctvnews.ca/video/c2974456-all-about-the-perseid-meteor-shower) about the Perseid Meteor Shower: *All about the Perseid Meteor Shower* (& [tweet](https://twitter.com/CTVMorningAtl/status/1821918484470648891))
