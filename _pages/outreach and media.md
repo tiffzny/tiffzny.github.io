@@ -76,7 +76,7 @@ Much of my outreach work is inspired by two mentors of mine: [Dr. Rob Thacker](h
 ---
 #### Some additional important-to-me news articles:
 
-* [INSTA Dog Days event at Argyle Fine Art](https://globalnews.ca/video/10765975/insta-dog-days-event-at-argyle-fine-art/), featuring two of my dogs and our friends, Global News Morning Halifax, 2024-Sept-20
-* [Amateur astronomer David Lane lived with his head in the stars and his heart on the water](https://www.theglobeandmail.com/life/article-amateur-astronomer-david-lane-lived-with-his-head-in-the-stars-and-his/), Globe & Mail *Lives Lived* 2024-Jul-18
-* [Pioneering N.S. astronomer remembered for 'connecting people with the universe'](https://www.cbc.ca/news/canada/nova-scotia/david-lane-astronomer-dead-nova-scotia-st-mary-s-university-telescope-1.7160453) CBC News, 2024-Apr-01
-* [SMU's new high-tech telescope takes stargazing to new level](https://atlantic.ctvnews.ca/smu-s-new-high-tech-telescope-takes-stargazing-to-new-level-1.2077912#) CTV Atlantic, 2014-Oct-29
+* 2024-Sept-20: [INSTA Dog Days event at Argyle Fine Art](https://globalnews.ca/video/10765975/insta-dog-days-event-at-argyle-fine-art/), featuring two of my dogs and our friends, Global News Morning Halifax
+* 2024-Jul-18: [Amateur astronomer David Lane lived with his head in the stars and his heart on the water](https://www.theglobeandmail.com/life/article-amateur-astronomer-david-lane-lived-with-his-head-in-the-stars-and-his/), Globe & Mail *Lives Lived* 
+* 2024-Apr-01: [Pioneering N.S. astronomer remembered for 'connecting people with the universe'](https://www.cbc.ca/news/canada/nova-scotia/david-lane-astronomer-dead-nova-scotia-st-mary-s-university-telescope-1.7160453) CBC News
+* 2014-Oct-29: [SMU's new high-tech telescope takes stargazing to new level](https://atlantic.ctvnews.ca/smu-s-new-high-tech-telescope-takes-stargazing-to-new-level-1.2077912#) CTV Atlantic
