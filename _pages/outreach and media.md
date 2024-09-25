@@ -25,6 +25,7 @@ Much of my outreach work is inspired by two mentors of mine: [Dr. Rob Thacker](h
 #### Media appearances given in reverse-chronological order:
 ---
 
+1. 2024-Sept-23: [CBC Information Morning Radio interview with host Portia Clark](https://www.cbc.ca/listen/live-radio/1-27/clip/16096605) about the new Star Finder program at Saint Mary's University: *Halifax astronomer's legacy being immortalized in N.S. science curriculum*
 1. 2024-Sept-16: [Interview with Nathan Coleman of The Weather Network](https://www.theweathernetwork.com/en/news/nature/outdoors/capturing-the-northern-lights-is-much-simpler-than-you-think) to talk tips and tricks about how to see the Northern Lights from here in Nova Scotia: *Capturing the northern lights is much simpler than you think*
 1. 2024-Sept-12: [CTV National live TV interview via Zoom with anchor](https://) regarding the first all-commercial space walk earlier this morning with SpaceX Polaris Dawn: *Interview Title*
 1. 2024-Sept-10: [CTV National TV interview with Paul Hollingsworth](https://www.ctvnews.ca/video/c2991640-ctv-national-news--daring-new-space-mission?playlistId=1.7033259&binId=1.810415) commenting on the SpaceX Polaris Dawn mission after a successful launch: *CTV National News: Daring new space mission*
