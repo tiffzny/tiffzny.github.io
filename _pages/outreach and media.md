@@ -25,6 +25,7 @@ Much of my outreach work is inspired by two mentors of mine: [Dr. Rob Thacker](h
 #### Media appearances given in reverse-chronological order:
 ---
 
+1. 2024-Nov-04: [CBC Maritime Noon live radio call-in with Bob Murphy](https://www.cbc.ca/listen/live-radio/1-38/clip/16106136) about stargazing and what we've recently seen in the sky: *On the phone-in: We talk with Tiffany Fields from the Burke-Gaffney Observatory at St Mary's University about objects in the night sky.*
 1. 2024-Oct-12: [CTV National live TV interview with Roger Petersen](https://www.ctvnews.ca/video?clipId=3010446) about Comet C/2023 A3 Tsuchinshan-ATLAS and when it might be visible: *Tips for viewing rare comet* (aside, immediately after this live TV interview, CTV played the aurora clip from yesterday... so I was on TV in back-to-back space segments!)
 1. 2024-Oct-11: [CTV National TV interview with Paul Hollingsworth](https://www.ctvnews.ca/video/c3010140-ctv-national-news--northern-lights-show-explained) reflecting on the huge auroral display on the night of Oct 10, 2024 and the reason for the frequency of the shows: *CTV National News: Northern lights show explained*, featured on the [Oct 11, 2024 nightly news.](https://www.ctvnews.ca/video/c3003273-ctv-national-news-with-heather-butts-for-friday--october-11--202)
 1. 2024-Sept-27: [CBC Radio Cape Breton](https://) interview with [host] about the new Star Finder program at SMU: *Interview Title*
