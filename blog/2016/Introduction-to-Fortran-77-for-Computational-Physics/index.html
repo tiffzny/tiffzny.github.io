@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <!-- Head -->
+  <head>        
+    <!-- Metadata, OpenGraph and Schema.org -->
+    
+
+    <!-- Standard metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Tiffany  Fields, MSc. | Introduction to Fortran 77 for Computational Physics</title>
+    <meta name="author" content="Tiffany  Fields, MSc." />
+    <meta name="description" content="Tiffany Fields - astronomy and science enthusiast.
+" />
+    <meta name="keywords" content="academic-website, space, blog, academic-cv, astronomy, observator" />
+
+
+    <!-- Bootstrap & MDB -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous" />
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+    <!-- Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://gitcdn.link/repo/jwarby/jekyll-pygments-themes/master/github.css" />
+
+    <!-- Styles -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✨</text></svg>">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="canonical" href="https://www.tiffanyfields.space/blog/2016/Introduction-to-Fortran-77-for-Computational-Physics/">
+
+    <!-- Dark Mode -->
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/dark_mode.js"></script>
+  </head>
+
+  <!-- Body -->
+  <body class="fixed-top-nav">
+
+    <!-- Header -->
+    <header>
+
+      <!-- Nav Bar -->
+      <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+        <div class="container">
+          <a class="navbar-brand title font-weight-lighter" href="https://www.tiffanyfields.space/"><span class="font-weight-bold">Tiffany</span>   Fields, MSc.</a>
+          <!-- Navbar Toggle -->
+          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse text-right" id="navbarNav">
+            <ul class="navbar-nav ml-auto flex-nowrap">
+
+              <!-- About -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/">about</a>
+              </li>
+              
+              <!-- Blog -->
+              <li class="nav-item active">
+                <a class="nav-link" href="/blog/">blog</a>
+              </li>
+
+              <!-- Other pages -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/links">links</a>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">outreach &amp; media</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/outreach-media">media appearances</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/outreach-groups">group presentations</a>
+                </div>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/teaching/">teaching</a>
+              </li>
+
+              <!-- Toogle theme mode -->
+              <div class="toggle-container">
+                <a id="light-toggle">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </a>
+              </div>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Content -->
+    <div class="container mt-5">
+      <!-- _layouts/post.html -->
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Introduction to Fortran 77 for Computational Physics</h1>
+    <p class="post-meta">November 17, 2016</p>
+    <p class="post-tags">
+      <a href="/blog/2016"> <i class="fas fa-calendar fa-sm"></i> 2016 </a>
+
+    </p>
+  </header>
+
+  <article class="post-content">
+    <p><em>This post goes along with a tutorial given by Tiffany to SMU Astronomy/Physics students on Friday, Nov. 18th, 2016, in order to introduce them to what will be seen in the Computational Physics (PHYS 3210) class in 3rd-year.</em></p>
+
+<p><img src="/assets/fortran-tutorial-assets/electric-dipole.jpg" width="100%"></p>
+
+<p>This is a simple (yet verbose) introduction to Fortran 77, using the example of calculating an electric field at certain points, assuming we have the data to do so. The tutorial I’m showing here is <strong><em>largely</em></strong> based on the tutorial given by Chris MacMackin in 2014, available <a href="http://ap.smu.ca/~smuaps/an-introduction-to-modern-fortran-programming.html" target="_blank" rel="noopener noreferrer">here, on the SMUAPS webpage.</a> (Note: link broken) Chris’s tutorial covers modern Fortran, while I deal with just Fortran 77. There are other bits of information available in Chris’s tutorial as well that you won’t find here, so I recommend scrolling through his after reading through this page.</p>
+
+<p>What we will do first is identify the problem we would like to solve, then examine ways to solve this program numerically (or with a computer). Next, I’ll relate this directly to how we can use Fortran 77 to read a data file and perform the calculations. We’ll look at the results at the end, and consider some extra helpful notes.</p>
+
+<h1 id="contents">Contents</h1>
+
+<ol>
+  <li><a href="#Files">Files for Download</a></li>
+  <li><a href="#Background">Background</a></li>
+  <li><a href="#Problem">The Problem</a></li>
+  <li>
+<a href="#Algorithm">Programming and Algorithm</a>
+    <ol>
+      <li><a href="#Variables">Declaring Variables</a></li>
+      <li><a href="#ReadingData">Reading Data</a></li>
+      <li><a href="#Derivative">Finding the Derivative</a></li>
+      <li><a href="#WriteData">Write Data to an Output File</a></li>
+      <li><a href="#Statistics">Statistics of the Data</a></li>
+    </ol>
+  </li>
+  <li><a href="#Compiling">Compiling and Running a Fortran Program</a></li>
+  <li><a href="#Conclusion">Conclusion</a></li>
+  <li><a href="#Notes">Extra Notes</a></li>
+  <li><a href="#Footnotes">Footnotes</a></li>
+</ol>
+
+<hr>
+<h1 id="Files">Files</h1>
+<p><strong>Before we get started,</strong> here are the relevant files I’ll be working with: <a href="/assets/fortran-tutorial-assets/potentialfield.f">potentialfield.f</a>, the Fortran code and <a href="/assets/fortran-tutorial-assets/in.dat">in.dat</a>, the data file. The data file has two columns: the first column is position, and the second column is the value of the potential at that position. You should keep the code and the data file in the same folder.</p>
+
+<hr>
+
+<h1 id="Background">Background</h1>
+
+<p>Often, an equation can’t be solved as easily on a computer as when it’s written on paper. For instance, when you take a derivative, you know the process and you know the rules of derivatives, so it’s easy to do. We know the derivative of $x^2$ is $2x$, and we know the derivative of $e^x$ is $e^x$, but how do you tell a computer all of these rules? What if we don’t have a continuous function, but rather a discrete number of points (such as in a data set)?</p>
+
+<p>With a data set, the process becomes more complicated and we have to think about the math we will tell the computer to perform. Here, I’ll show you how to use Fortran (the ‘77 version), to solve a physics problem (related to derivatives). The great thing about Fortran is that it is mostly like reading plain English, something that languages like C++ or Java can’t say. So, reading and writing in Fortran is typically less of a daunting task than we might think.</p>
+
+<h1 id="Problem">The Problem</h1>
+
+<p>We have <a href="/assets/fortran-tutorial-assets/in.dat">data</a> of electric potentials at various positions. What we would <em>like</em> to do is to calculate the strength of the *electric field** at each position. Recall how the potential and the electric field are related in one dimension:
+\(E = -\dfrac{dV}{dx}.\)</p>
+
+<p>As I mentioned before, when we are programming (or “telling a computer to do something”), we must rethink the way in which we do certain calculations. Let’s think about the derivative, and what it means, beyond just the rules to find derivatives. Recall that the derivative is the instantaneous slope at a point. We can relate this to <em>our</em> data by finding the slope <em>around</em> each data point, in the following way:
+\(\dfrac{dV_i}{dx} \approx \dfrac{V_{i+1}-V_{i-1}}{x_{i+1}-x_{i-1}}.\)</p>
+
+<p>Note, this is an approximate method since we have discrete data rather than a continuous function. At the endpoints of our data, we won’t have an $(i+1)^{\mathrm{th}}$ point (if we are at the end) or an $(i-1)^{\mathrm{th}}$ point (if we are at the beginning of our data). Therefore, we must change the way in which we calculate the derivative at these points slightly to
+\(\dfrac{dV_i}{dx} \approx \dfrac{V_{i+1}-V_{i}}{x_{i+1}-x_{i}} \:\:\: \mathrm{at}\:\mathrm{the}\:\mathrm{beginning,}\:\mathrm{or} \:\:\: \approx  \dfrac{V_{i}-V_{i-1}}{x_{i}-x_{i-1}}, \:\:\: \mathrm{at}\:\mathrm{the}\:\mathrm{end.}\)</p>
+
+<p>Now, we must write the code for these calculations.</p>
+
+<h1 id="Algorithm">Programming</h1>
+
+<p>Let’s consider the algorithm we will follow for this program:</p>
+
+<ol>
+  <li>Declare variables needed in the program</li>
+  <li>Read data from our <a href="/assets/fortran-tutorial-assets/in.dat">in.dat</a> file, and save the data to arrays</li>
+  <li>Take the derivative of the data, then multiply by -1 to find E</li>
+  <li>Write data to the output file</li>
+  <li>For some extra fun, we’ll then calculate the mean and the standard deviation of the calculated E</li>
+</ol>
+
+<p>Now that we have an idea of the algorithm we’ll follow, let’s get to it.</p>
+
+<blockquote>
+  <p>[!TIP]
+Read the footnotes. I’ll include useful information there as well.</p>
+</blockquote>
+
+<h1 id="Variables">Declaring Necessary Variables</h1>
+
+<p>I want to make the strong note that this part of the process of programming does <em>not</em> need to happen first. Often, variables can be declared as you realize you need them, and that’s entirely fine, but I want to take this time to explain about variable declarations.</p>
+
+<p>Unlike some other programming languages, Fortran requires all variables be declared (with their type and their name) at the very beginning of the program. Here’s the beginning of my program and my declarations for <a href="/assets/fortran-tutorial-assets/potentialfield.f">potentialfield.f</a>):</p>
+
+<div class="language-fortran highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="w">      </span><span class="k">program</span><span class="w"> </span><span class="n">potentialfield</span><span class="w">
+</span><span class="n">c</span><span class="w">
+      </span><span class="k">implicit</span><span class="w"> </span><span class="k">none</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="w">  </span><span class="n">This</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="k">where</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">infile</span><span class="p">/</span><span class="n">outfile</span><span class="w"> </span><span class="n">should</span><span class="w"> </span><span class="n">be</span><span class="w"> </span><span class="n">changed</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">needed</span><span class="w">
+      </span><span class="kt">character</span><span class="o">*</span><span class="mi">32</span><span class="w"> </span><span class="n">infile</span><span class="p">,</span><span class="w"> </span><span class="n">outfile</span><span class="w">
+      </span><span class="k">parameter</span><span class="w">    </span><span class="p">(</span><span class="n">infile</span><span class="o">=</span><span class="s1">'in.dat'</span><span class="p">,</span><span class="w"> </span><span class="n">outfile</span><span class="o">=</span><span class="s1">'out.dat'</span><span class="p">)</span><span class="w">
+</span><span class="n">c</span><span class="w">
+      </span><span class="kt">integer</span><span class="w">      </span><span class="n">datamax</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="n">Here</span><span class="p">,</span><span class="w"> </span><span class="n">we</span><span class="w"> </span><span class="n">are</span><span class="w"> </span><span class="n">saying</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">MAXIMUM</span><span class="w"> </span><span class="err">#</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="k">data</span><span class="w"> </span><span class="n">rows</span><span class="w"> </span><span class="n">we</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="k">read</span><span class="w"> </span><span class="k">is</span><span class="w">
+</span><span class="n">c</span><span class="w">  </span><span class="mf">1012.</span><span class="w"> </span><span class="n">Be</span><span class="w"> </span><span class="n">sure</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">change</span><span class="w"> </span><span class="n">this</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">it</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="n">too</span><span class="w"> </span><span class="n">small</span><span class="w"> </span><span class="n">for</span><span class="w"> </span><span class="n">your</span><span class="w"> </span><span class="n">particular</span><span class="w">
+</span><span class="n">c</span><span class="w">  </span><span class="k">data</span><span class="w"> </span><span class="n">file</span><span class="err">.</span><span class="w">
+      </span><span class="k">parameter</span><span class="w">    </span><span class="p">(</span><span class="n">datamax</span><span class="o">=</span><span class="mi">1012</span><span class="p">)</span><span class="w">
+      </span><span class="kt">integer</span><span class="w">      </span><span class="n">i</span><span class="p">,</span><span class="w"> </span><span class="n">ioval</span><span class="p">,</span><span class="w"> </span><span class="n">datasize</span><span class="w">
+</span><span class="n">c</span><span class="w">
+      </span><span class="kt">real</span><span class="o">*</span><span class="mi">8</span><span class="w">       </span><span class="n">mean</span><span class="p">,</span><span class="w"> </span><span class="n">stdev</span><span class="w">
+      </span><span class="kt">real</span><span class="o">*</span><span class="mi">8</span><span class="w">       </span><span class="n">field</span><span class="p">(</span><span class="n">datamax</span><span class="p">),</span><span class="w"> </span><span class="n">postn</span><span class="p">(</span><span class="n">datamax</span><span class="p">),</span><span class="w"> </span><span class="n">potntl</span><span class="p">(</span><span class="n">datamax</span><span class="p">)</span><span class="w">
+</span><span class="n">c</span><span class="w">
+      </span><span class="k">external</span><span class="w">     </span><span class="n">diff</span><span class="p">,</span><span class="w"> </span><span class="n">stats</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Here, you’ll start to notice some of Fortran 77’s syntax. The first line is <code class="language-plaintext highlighter-rouge">program potentialfield</code>, which tells the computer that I am starting a program. Something interesting that can be discussed on this first line is that the 1st character in any line (except for a commented line), must start in the <em>7th column.</em></p>
+
+<p>Therefore, to start any line, you’ll have to hit “space space space space space space” before starting to write your code.<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup></p>
+
+<p>On the second line, you’ll find only a <code class="language-plaintext highlighter-rouge">c</code>. In Fortran 77, a <code class="language-plaintext highlighter-rouge">c</code> in the very first column indicates a comment – the entire line will be commented, and the compiler will ignore the code. Additionally, <code class="language-plaintext highlighter-rouge">!</code> can be used for comments, but is not standard for Fortran 77. You’ll see me use <code class="language-plaintext highlighter-rouge">!</code> for in-line comments, anyway, and <code class="language-plaintext highlighter-rouge">c</code> for comments that take up the entire line.<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">2</a></sup></p>
+
+<p>On the next line, <code class="language-plaintext highlighter-rouge">implicit none</code> tells the compiler that we don’t want any variables in the code without having declared them first. This way, we’ll have an error when attempting to compile this code if the program has a variable that has not been declared. Using <code class="language-plaintext highlighter-rouge">implicit none</code> in this code is good programming practice.</p>
+
+<p>Now, we’ll get to the meat of this section: The declarations! You’ll see how I declare <code class="language-plaintext highlighter-rouge">character</code><sup id="fnref:3"><a href="#fn:3" class="footnote" rel="footnote" role="doc-noteref">3</a></sup>, <code class="language-plaintext highlighter-rouge">integer</code>, and <code class="language-plaintext highlighter-rouge">real*8</code><sup id="fnref:4"><a href="#fn:4" class="footnote" rel="footnote" role="doc-noteref">4</a></sup> types of variables. Something that needs to be pointed out here is that the variables <code class="language-plaintext highlighter-rouge">field</code>, <code class="language-plaintext highlighter-rouge">postn</code> (position), and <code class="language-plaintext highlighter-rouge">potnl</code> (potential) are all <em>arrays</em>, and we have declared them as such by giving them a size – in the case of all three variables, the size is <code class="language-plaintext highlighter-rouge">datamax</code>. In Fortran77, we must declare the sizes of arrays (and strings) at the very beginning. So, we might as well make the arrays <code class="language-plaintext highlighter-rouge">huge</code>, just in case we need lots of space to store numbers.</p>
+
+<p>Additionally, I use <code class="language-plaintext highlighter-rouge">parameter</code> to give the variable <code class="language-plaintext highlighter-rouge">datamax</code> a specific and constant value, which cannot be changed later in the program. The final line declares the names of the external subroutines I’ll be using (which will appear later!).</p>
+
+<h1 id="ReadingData">Reading Data</h1>
+
+<p>Now that we have data declared<sup id="fnref:5"><a href="#fn:5" class="footnote" rel="footnote" role="doc-noteref">5</a></sup>, we can start to write out the instructions for the computer. The first step is to make sure the data is read into arrays so that the program can use it. Let’s examine the relevant part of the code:</p>
+
+<div class="language-fortran highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">c</span><span class="w"> </span><span class="k">Read</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="k">data</span><span class="w"> </span><span class="n">from</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">input</span><span class="w"> </span><span class="n">file</span><span class="p">,</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="s1">'unit'</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="mi">10</span><span class="w">
+      </span><span class="k">open</span><span class="p">(</span><span class="n">unit</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span><span class="w"> </span><span class="n">file</span><span class="o">=</span><span class="n">infile</span><span class="p">,</span><span class="w"> </span><span class="n">status</span><span class="o">=</span><span class="s1">'unknown'</span><span class="p">)</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="k">Read</span><span class="w"> </span><span class="n">elements</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">file</span><span class="err">.</span><span class="w"> </span><span class="n">We</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="k">read</span><span class="w"> </span><span class="n">from</span><span class="w"> </span><span class="mi">0</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="n">datamax</span><span class="p">,</span><span class="w"> 
+</span><span class="n">c</span><span class="w">  </span><span class="n">even</span><span class="w"> </span><span class="n">though</span><span class="w"> </span><span class="n">our</span><span class="w"> </span><span class="k">data</span><span class="w"> </span><span class="n">file</span><span class="w"> </span><span class="n">might</span><span class="w"> </span><span class="n">be</span><span class="w"> </span><span class="n">smaller</span><span class="w"> </span><span class="n">than</span><span class="w"> </span><span class="n">datamax</span><span class="err">.</span><span class="w">
+</span><span class="n">c</span><span class="w">  </span><span class="n">So</span><span class="p">,</span><span class="w"> </span><span class="n">we</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="n">keep</span><span class="w"> </span><span class="n">track</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">how</span><span class="w"> </span><span class="n">large</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">file</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="n">incrementing</span><span class="w">
+</span><span class="n">c</span><span class="w">  </span><span class="n">datasize</span><span class="w">
+      </span><span class="n">datasize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span><span class="w">
+      </span><span class="k">do</span><span class="w"> </span><span class="mi">11</span><span class="w"> </span><span class="n">i</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="n">datamax</span><span class="w">
+        </span><span class="c1">! end=11 means it will go to the label '12' when file is empty</span><span class="w">
+        </span><span class="k">read</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="o">*</span><span class="p">,</span><span class="k">end</span><span class="o">=</span><span class="mi">12</span><span class="p">)</span><span class="w"> </span><span class="n">postn</span><span class="p">(</span><span class="n">i</span><span class="p">),</span><span class="w"> </span><span class="n">potntl</span><span class="p">(</span><span class="n">i</span><span class="p">)</span><span class="w">
+        </span><span class="n">datasize</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">0</span><span class="w">
+</span><span class="nl">11</span><span class="w">    </span><span class="k">continue</span><span class="w">
+</span><span class="nl">12</span><span class="w">    </span><span class="k">continue</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="n">Issue</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="n">warning</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="k">data</span><span class="w"> </span><span class="n">may</span><span class="w"> </span><span class="n">have</span><span class="w"> </span><span class="n">been</span><span class="w"> </span><span class="n">cut</span><span class="w"> </span><span class="n">off</span><span class="w"> </span><span class="n">because</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">arraysize</span><span class="w">
+      </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">datasize</span><span class="w"> </span><span class="ow">.ge.</span><span class="w"> </span><span class="n">datamax</span><span class="p">)</span><span class="w"> </span><span class="k">then</span><span class="w">
+        </span><span class="k">write</span><span class="p">(</span><span class="o">*</span><span class="p">,</span><span class="o">*</span><span class="p">)</span><span class="w"> </span><span class="s1">'WARNING: datasize is same as datamax. Data may '</span><span class="p">,</span><span class="w">
+     </span><span class="mi">1</span><span class="w">             </span><span class="s1">'have been truncated'</span><span class="w">
+      </span><span class="k">end</span><span class="w"> </span><span class="k">if</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="n">We</span><span class="w"> </span><span class="n">are</span><span class="w"> </span><span class="n">done</span><span class="w"> </span><span class="n">with</span><span class="w"> </span><span class="n">that</span><span class="w"> </span><span class="n">file</span><span class="p">,</span><span class="w"> </span><span class="n">so</span><span class="w"> </span><span class="k">close</span><span class="w"> </span><span class="n">it</span><span class="w"> </span><span class="n">now</span><span class="w">
+      </span><span class="k">close</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<p>The second line is the command to <code class="language-plaintext highlighter-rouge">open</code> the data file, whose name we have saved to the variable <code class="language-plaintext highlighter-rouge">infile</code>. We open the file with the <code class="language-plaintext highlighter-rouge">open</code> command and save it to a <code class="language-plaintext highlighter-rouge">unit</code>, which we call <code class="language-plaintext highlighter-rouge">10</code>. Fortran 77 wants to have an integer by which to reference files, so we’ll remember that this file is unit <code class="language-plaintext highlighter-rouge">10</code> when we want to read the data a few lines down.<sup id="fnref:6"><a href="#fn:6" class="footnote" rel="footnote" role="doc-noteref">6</a></sup></p>
+
+<p>At the beginning of the program, we have no idea how many data points are in <code class="language-plaintext highlighter-rouge">infile</code>. So, I use the variable <code class="language-plaintext highlighter-rouge">datasize</code> to keep track of the length of the data file, which is incremented in the <code class="language-plaintext highlighter-rouge">do-loop</code>. The <code class="language-plaintext highlighter-rouge">do-loop</code> is simplest type of loop, and the structure is as follows:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>      do LABEL STEPPER=START, END[, SKIP]
+        code to execute in loop
+        more code
+        something else
+LABEL continue
+</code></pre></div></div>
+
+<p><code class="language-plaintext highlighter-rouge">LABEL</code> is an integer that corresponds to the “label” of the <code class="language-plaintext highlighter-rouge">continue</code> command that signifies where the program should go at the end of the loop. <code class="language-plaintext highlighter-rouge">STEPPER</code> is a variable that is declared to start at a certain value, <code class="language-plaintext highlighter-rouge">START</code>, and will be incremented by either 1 or <code class="language-plaintext highlighter-rouge">SKIP</code> (<em>if</em> a <code class="language-plaintext highlighter-rouge">SKIP</code> is provided)<sup id="fnref:7"><a href="#fn:7" class="footnote" rel="footnote" role="doc-noteref">7</a></sup> until the value of <code class="language-plaintext highlighter-rouge">STEPPER</code> is greater than <code class="language-plaintext highlighter-rouge">END</code>. When <code class="language-plaintext highlighter-rouge">STEPPER</code> is greater than <code class="language-plaintext highlighter-rouge">END</code>, then the loop ends and the program jumps to the <code class="language-plaintext highlighter-rouge">LABEL</code> to keep going through the rest of the code.</p>
+
+<p>In the loop, we read the data from the file into the arrays we have declared. A very important note is that the indices of arrays in Fortran <strong>start at 1, not 0</strong>, unlike many other programming languages (such as Python). For example, if I had the array:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(13, 5.4, 'banana', 3, 0.14, 0.00159)
+</code></pre></div></div>
+
+<p>the <strong>index</strong> of <code class="language-plaintext highlighter-rouge">13</code> would be <strong>1</strong>, <em>not</em> 0! Therefore, when I read data from the file into the arrays, I want to put the first data point in index 1 of the array, the second data point in index 2, etc.</p>
+
+<p>Here is where we get to the <code class="language-plaintext highlighter-rouge">read</code> command. In this line, we <code class="language-plaintext highlighter-rouge">read</code> from <code class="language-plaintext highlighter-rouge">10</code>, which was the label we gave to the <code class="language-plaintext highlighter-rouge">infile</code> that we are reading data from (I said we needed to remember it!), and put the information we read into <code class="language-plaintext highlighter-rouge">*</code>, which is specified directly after the <code class="language-plaintext highlighter-rouge">read</code> command, and then we will jump to label <code class="language-plaintext highlighter-rouge">12</code> if we come to the end of the file. The first value that is read in each line goes into the array <code class="language-plaintext highlighter-rouge">postn</code> (as it should), and the second value read goes into the array <code class="language-plaintext highlighter-rouge">potnl</code> (as it should). You can see how I included the labels <code class="language-plaintext highlighter-rouge">11</code> and <code class="language-plaintext highlighter-rouge">12</code> after the loop, to indicate places where the program needs to jump to if certain conditions are met (like the loop ending or finding the end of the file).</p>
+
+<p>Next, I write a warning to the standard output (usually the screen, or the terminal window you’re working in) if more data points were read than the maximum size we gave to the arrays. Then, since we are all done reading data from <code class="language-plaintext highlighter-rouge">infile</code>, I close the file.<sup id="fnref:8"><a href="#fn:8" class="footnote" rel="footnote" role="doc-noteref">8</a></sup></p>
+
+<h1 id="Derivative">Finding the Derivative</h1>
+
+<p>Our next step in the algorithm is to find the derivative of the potential at each position, and then multiply that derivative by -1 to find the value of the electric field, <code class="language-plaintext highlighter-rouge">field</code>, at the position. Here is the relevant bit of the code from <code class="language-plaintext highlighter-rouge">potentialfield.f</code> that does just that:</p>
+
+<div class="language-fortran highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">c</span><span class="w"> </span><span class="n">Now</span><span class="p">,</span><span class="w"> </span><span class="n">calculate</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">negative</span><span class="w"> </span><span class="n">derivative</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">input</span><span class="w"> </span><span class="k">data</span><span class="p">,</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">find</span><span class="w">
+</span><span class="n">c</span><span class="w">   </span><span class="n">the</span><span class="w"> </span><span class="k">value</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">field</span><span class="w"> </span><span class="n">at</span><span class="w"> </span><span class="n">each</span><span class="w"> </span><span class="n">point</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="n">Here</span><span class="p">,</span><span class="w"> </span><span class="s1">'field'</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="n">be</span><span class="w"> </span><span class="s2">"returned"</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">us</span><span class="w"> </span><span class="o">--</span><span class="w"> </span><span class="n">changed</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">way</span><span class="w"> </span><span class="n">we</span><span class="w"> </span><span class="n">want</span><span class="w">
+      </span><span class="k">call</span><span class="w"> </span><span class="n">diff</span><span class="p">(</span><span class="n">postn</span><span class="p">,</span><span class="w"> </span><span class="n">potntl</span><span class="p">,</span><span class="w"> </span><span class="n">datasize</span><span class="p">,</span><span class="w"> </span><span class="n">field</span><span class="p">)</span><span class="w">
+      </span><span class="k">do</span><span class="w"> </span><span class="mi">13</span><span class="w"> </span><span class="n">i</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="n">datasize</span><span class="w">
+        </span><span class="n">field</span><span class="p">(</span><span class="n">i</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mf">-1.0d0</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="n">field</span><span class="p">(</span><span class="n">i</span><span class="p">)</span><span class="w">
+</span><span class="nl">13</span><span class="w">    </span><span class="k">continue</span><span class="w">
+</span></code></pre></div></div>
+
+<p>But, this seems too simple, doesn’t it? All it took to find the <code class="language-plaintext highlighter-rouge">field</code> was the command <code class="language-plaintext highlighter-rouge">call diff</code>. If you thought that, you’re certainly correct. The <code class="language-plaintext highlighter-rouge">call</code> command “calls” a subroutine called <code class="language-plaintext highlighter-rouge">diff</code>, which is short for “differentiate.” The arguments, or the values that we are giving to the subroutine, are listed in the parenthesis.<sup id="fnref:9"><a href="#fn:9" class="footnote" rel="footnote" role="doc-noteref">9</a></sup> In my <code class="language-plaintext highlighter-rouge">diff</code> subroutine, shown below, the variables <code class="language-plaintext highlighter-rouge">postn</code>, <code class="language-plaintext highlighter-rouge">potntl</code>, and <code class="language-plaintext highlighter-rouge">datasize</code> are used to calculate the values of <code class="language-plaintext highlighter-rouge">field</code>. Recall, at this point, that the variable <code class="language-plaintext highlighter-rouge">field</code> has <em>no</em> values assigned to it yet – but it will be filled with values when the program returns from the subroutine <code class="language-plaintext highlighter-rouge">diff</code>. Let’s take a look at how the subroutine <code class="language-plaintext highlighter-rouge">diff</code> looks in the code:</p>
+
+<div class="language-fortran highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">c</span><span class="o">=======================================================================</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="k">SUBROUTINE</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">DIFF</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="o">-----------------</span><span class="w">
+      </span><span class="k">subroutine</span><span class="w"> </span><span class="n">diff</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="nb">size</span><span class="p">,</span><span class="w"> </span><span class="n">deriv</span><span class="p">)</span><span class="w">
+      </span><span class="k">implicit</span><span class="w"> </span><span class="k">none</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="n">This</span><span class="w"> </span><span class="n">estimates</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">first</span><span class="w"> </span><span class="n">derivative</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">some</span><span class="w"> </span><span class="n">discrete</span><span class="w"> </span><span class="k">data</span><span class="err">.</span><span class="w"> </span><span class="n">Returns</span><span class="w">
+</span><span class="n">c</span><span class="w">  </span><span class="n">the</span><span class="w"> </span><span class="n">double</span><span class="o">-</span><span class="n">precision</span><span class="w"> </span><span class="n">array</span><span class="w"> </span><span class="s1">'deriv'</span><span class="w"> </span><span class="n">after</span><span class="w"> </span><span class="n">modifying</span><span class="w"> </span><span class="n">it</span><span class="w"> </span><span class="n">here</span><span class="err">.</span><span class="w">
+</span><span class="n">c</span><span class="w">     
+</span><span class="n">c</span><span class="w">     </span><span class="n">Arguments</span><span class="p">:</span><span class="w">
+</span><span class="n">c</span><span class="w">         </span><span class="n">x</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">independent</span><span class="w"> </span><span class="n">variable</span><span class="w">
+</span><span class="n">c</span><span class="w">         </span><span class="n">y</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">dependent</span><span class="w"> </span><span class="n">variable</span><span class="w">
+</span><span class="n">c</span><span class="w">         </span><span class="nb">size</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="nb">size</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">x</span><span class="p">,</span><span class="w"> </span><span class="n">y</span><span class="p">,</span><span class="w"> </span><span class="n">and</span><span class="w"> </span><span class="s1">'ans'</span><span class="w">
+</span><span class="n">c</span><span class="w">         </span><span class="n">deriv</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="s1">'derivative'</span><span class="w"> </span><span class="o">--</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">array</span><span class="w"> </span><span class="n">we</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="n">be</span><span class="w"> </span><span class="n">returning</span><span class="w">
+</span><span class="n">c</span><span class="w">
+      </span><span class="kt">integer</span><span class="w"> </span><span class="nb">size</span><span class="p">,</span><span class="w"> </span><span class="n">i</span><span class="w">
+      </span><span class="kt">real</span><span class="o">*</span><span class="mi">8</span><span class="w">  </span><span class="n">x</span><span class="p">(</span><span class="nb">size</span><span class="p">),</span><span class="w"> </span><span class="n">y</span><span class="p">(</span><span class="nb">size</span><span class="p">),</span><span class="w"> </span><span class="n">deriv</span><span class="p">(</span><span class="nb">size</span><span class="p">)</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="o">-----------------------------------------------------------------------</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="n">Calculate</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">derivative</span><span class="w"> </span><span class="n">for</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">first</span><span class="w"> </span><span class="k">data</span><span class="w"> </span><span class="n">point</span><span class="w">
+      </span><span class="n">deriv</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">y</span><span class="p">(</span><span class="mi">2</span><span class="p">)</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">y</span><span class="p">(</span><span class="mi">1</span><span class="p">))</span><span class="w"> </span><span class="p">/</span><span class="w"> </span><span class="p">(</span><span class="n">x</span><span class="p">(</span><span class="mi">2</span><span class="p">)</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">x</span><span class="p">(</span><span class="mi">1</span><span class="p">))</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="n">Calculate</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">derivative</span><span class="w"> </span><span class="n">for</span><span class="w"> </span><span class="nb">all</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">middle</span><span class="w"> </span><span class="n">points</span><span class="w">
+      </span><span class="k">do</span><span class="w"> </span><span class="mi">10</span><span class="w"> </span><span class="n">i</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="nb">size</span><span class="mi">-1</span><span class="w">
+        </span><span class="n">deriv</span><span class="p">(</span><span class="n">i</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">y</span><span class="p">(</span><span class="n">i</span><span class="mi">+1</span><span class="p">)</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">y</span><span class="p">(</span><span class="n">i</span><span class="mi">-1</span><span class="p">))</span><span class="w"> </span><span class="p">/</span><span class="w"> </span><span class="p">(</span><span class="n">x</span><span class="p">(</span><span class="n">i</span><span class="mi">+1</span><span class="p">)</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">x</span><span class="p">(</span><span class="n">i</span><span class="mi">-1</span><span class="p">))</span><span class="w">
+</span><span class="nl">10</span><span class="w">    </span><span class="k">continue</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="n">Calculate</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">derivative</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">last</span><span class="w"> </span><span class="k">data</span><span class="w"> </span><span class="n">point</span><span class="w">
+      </span><span class="n">deriv</span><span class="p">(</span><span class="nb">size</span><span class="p">)</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">(</span><span class="n">y</span><span class="p">(</span><span class="nb">size</span><span class="p">)</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">y</span><span class="p">(</span><span class="nb">size</span><span class="mi">-1</span><span class="p">))</span><span class="w"> </span><span class="p">/</span><span class="w"> </span><span class="p">(</span><span class="n">x</span><span class="p">(</span><span class="nb">size</span><span class="p">)</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">x</span><span class="p">(</span><span class="nb">size</span><span class="mi">-1</span><span class="p">))</span><span class="w">
+</span><span class="n">c</span><span class="w">
+      </span><span class="k">return</span><span class="w">
+      </span><span class="k">end</span><span class="w">
+</span><span class="n">c</span><span class="o">=======================================================================</span><span class="w">
+</span></code></pre></div></div>
+
+<p>You may notice that the entirety of this subroutine is only actually just 5 lines of code, with lots of comments for explanation (in other words: much more simple than it looks!). In this subroutine, I’ve implemented the equations for derivatives (on computers) that we worked out before. For the first value of the derivative, I have
+\(\dfrac{dy(1)}{dx} = \dfrac{y(2)-y(1)}{x(2)-x(1)}\)
+which was needed for the first data point. Then, I find the derivative of all of the middle points as we described above in the <a href="#Problem">Problem</a> section. To do this, I must loop through all of the data points in the arrays that we have saved. I know I must loop from <code class="language-plaintext highlighter-rouge">2</code> – the second index, since we already took care of the <em>first</em> point – to <code class="language-plaintext highlighter-rouge">size-1</code>, which is 1 position below the end of the array. After the loop is through, I calculate the last data point similarly to the first, but using the last two data points instead of the first two for the calculation (the same as described before).</p>
+
+<p>Then, we’re done. We have calculated the derivatives at all points, now we can <code class="language-plaintext highlighter-rouge">return</code> to the original program and <code class="language-plaintext highlighter-rouge">end</code> the subroutine.</p>
+
+<p>We we get back to our original code, all that is left to do is to loop through all of the indexes of our newly-filled array <code class="language-plaintext highlighter-rouge">field</code> and multiply the values by -1 to get the value of E!</p>
+
+<h1 id="WriteData">Write Data to an Output File</h1>
+
+<p>Next, we will save the calculated data to a file, in case we ever need to access it in the future. Our goal is to write a file with two columns: the first column being position, and the second column being the calculated electric field at that position. Here’s the relevant bit of code that does that:</p>
+
+<div class="language-fortran highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">c</span><span class="w"> </span><span class="n">Next</span><span class="p">,</span><span class="w"> </span><span class="k">write</span><span class="w"> </span><span class="k">out</span><span class="w"> </span><span class="n">answer</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">output</span><span class="w"> </span><span class="n">file</span><span class="w">
+      </span><span class="k">open</span><span class="p">(</span><span class="n">unit</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span><span class="w"> </span><span class="n">file</span><span class="o">=</span><span class="n">outfile</span><span class="p">,</span><span class="w"> </span><span class="n">status</span><span class="o">=</span><span class="s1">'unknown'</span><span class="p">)</span><span class="w">
+      </span><span class="k">write</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="w"> </span><span class="o">*</span><span class="p">)</span><span class="w"> </span><span class="s1">'# Position, Field Strength'</span><span class="w"> </span><span class="c1">! header for file</span><span class="w">
+      </span><span class="k">do</span><span class="w"> </span><span class="mi">14</span><span class="w"> </span><span class="n">i</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="n">datasize</span><span class="w">
+        </span><span class="k">write</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="mi">2000</span><span class="p">)</span><span class="w"> </span><span class="n">postn</span><span class="p">(</span><span class="n">i</span><span class="p">),</span><span class="w"> </span><span class="n">field</span><span class="p">(</span><span class="n">i</span><span class="p">)</span><span class="w">
+</span><span class="nl">14</span><span class="w">    </span><span class="k">continue</span><span class="w">
+</span><span class="n">c</span><span class="w"> 
+      </span><span class="k">close</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<p>The majority of this code is similar to bits of code that we have seen before. We see the <code class="language-plaintext highlighter-rouge">open</code> command, a <code class="language-plaintext highlighter-rouge">do-loop</code>, and another <code class="language-plaintext highlighter-rouge">close</code> command. The only new command seen here is the <code class="language-plaintext highlighter-rouge">write</code> command, which is how we tell the program to “write” to something.</p>
+
+<p>The way that the write command works is the same as the read command: we have</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>write(LOCATION, STUFF-TO-WRITE)
+</code></pre></div></div>
+
+<p>where <code class="language-plaintext highlighter-rouge">LOCATION</code> is where the program is writing <em>to</em>, and <code class="language-plaintext highlighter-rouge">STUFF-TO-WRITE</code> is what the program is <em>going to write</em>. In my first <code class="language-plaintext highlighter-rouge">write</code> statement, I set <code class="language-plaintext highlighter-rouge">STUFF-TO-WRITE</code> to be <code class="language-plaintext highlighter-rouge">*</code>, so the program looks immediately after the <code class="language-plaintext highlighter-rouge">write</code> statement to see what it wants to write. In our case, I’m writing a comment (started with a <code class="language-plaintext highlighter-rouge">#</code>) about what the file contains.<sup id="fnref:10"><a href="#fn:10" class="footnote" rel="footnote" role="doc-noteref">10</a></sup> However, in the second <code class="language-plaintext highlighter-rouge">write</code> statement, I set <code class="language-plaintext highlighter-rouge">STUFF-TO-WRITE</code> to be <code class="language-plaintext highlighter-rouge">2000</code>. If you didn’t already guess, <code class="language-plaintext highlighter-rouge">2000</code> is a <em>label</em> that corresponds to a <code class="language-plaintext highlighter-rouge">format</code> statement, which is found near the end of the code and looks like:</p>
+
+<div class="language-fortran highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">c</span><span class="o">-----------------------------------------------------------------------</span><span class="w">
+</span><span class="n">c</span><span class="w">      </span><span class="k">Format</span><span class="w"> </span><span class="n">statement</span><span class="err">.</span><span class="w"> </span><span class="mi">1</span><span class="w"> </span><span class="s1">'page'</span><span class="p">,</span><span class="w"> </span><span class="mi">2</span><span class="w"> </span><span class="n">numbers</span><span class="p">,</span><span class="w"> </span><span class="n">with</span><span class="w"> </span><span class="mi">22</span><span class="w"> </span><span class="nb">digits</span><span class="w"> </span><span class="n">before</span><span class="w"> </span><span class="n">the</span><span class="w">
+</span><span class="n">c</span><span class="w">         </span><span class="n">decimal</span><span class="p">,</span><span class="w"> </span><span class="n">and</span><span class="w"> </span><span class="mi">15</span><span class="w"> </span><span class="nb">digits</span><span class="w"> </span><span class="n">after</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">decimal</span><span class="w">
+</span><span class="nl">2000</span><span class="w">  </span><span class="k">format</span><span class="p">(</span><span class="l">1p2g22.15</span><span class="p">)</span><span class="w">
+</span><span class="nl">2010</span><span class="w">  </span><span class="k">format</span><span class="p">(</span><span class="s1">'STATS: The average electric field strength was '</span><span class="p">,</span><span class="l">/</span><span class="w">
+     </span><span class="l">1</span><span class="w">       </span><span class="p">,</span><span class="s1">'STATS:'</span><span class="p">,</span><span class="l">1p1g12.5</span><span class="p">,</span><span class="s1">' N/C with a sample standard deviation'</span><span class="w">
+     </span><span class="l">2</span><span class="w">       </span><span class="p">,</span><span class="l">/</span><span class="p">,</span><span class="s1">'STATS: of '</span><span class="p">,</span><span class="l">1p1g12.5</span><span class="p">,</span><span class="s1">' N/C'</span><span class="w">
+     </span><span class="l">3</span><span class="w">       </span><span class="p">,</span><span class="l">/</span><span class="p">,</span><span class="s1">'STATS: This was calculated using '</span><span class="p">,</span><span class="l">i4</span><span class="p">,</span><span class="s1">' data points.'</span><span class="p">)</span><span class="w">
+</span><span class="n">c</span><span class="o">-----------------------------------------------------------------------</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Though this looks complicated, it isn’t really. I give the label <code class="language-plaintext highlighter-rouge">2000</code> to the first <code class="language-plaintext highlighter-rouge">format</code> statement, so when I tell the program to <code class="language-plaintext highlighter-rouge">write(10, 2000)</code>, it will follow this format when writing. The <code class="language-plaintext highlighter-rouge">1p2g22.15</code> in the parenthesis tells the program to write 2 <code class="language-plaintext highlighter-rouge">real*8</code> values, with 15 digits past the decimal point.<sup id="fnref:11"><a href="#fn:11" class="footnote" rel="footnote" role="doc-noteref">11</a></sup> The second <code class="language-plaintext highlighter-rouge">format</code> statement is for the printing of statistics that I will explain below.</p>
+
+<p>Here, we also see how to continue lines in Fortran. Since Fortran 77 only allows 72 characters per line (crazy, I know), you’ll often need to continue your code on multiple lines for it all to fit. In Fortran 77, we use integers in the <em>6th column</em> to show that we are continuing lines, the same way I’ve done above.</p>
+
+<p>Now, we’ve printed all of our data to the file <code class="language-plaintext highlighter-rouge">outfile</code>, hooray! At this point, we’ll just calculate some statistics about the data for fun.</p>
+
+<h1 id="Statistics">Statistics of the Data</h1>
+
+<p>Next, I want to calculate the mean and the standard deviation of the electric field and print those results right to the screen. The relevant bit of code is:</p>
+
+<div class="language-fortran highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">c</span><span class="w"> </span><span class="n">Calculate</span><span class="w"> </span><span class="n">statistics</span><span class="p">,</span><span class="w"> </span><span class="n">and</span><span class="w"> </span><span class="n">output</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">results</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">screen</span><span class="w">
+      </span><span class="k">call</span><span class="w"> </span><span class="n">stats</span><span class="p">(</span><span class="n">field</span><span class="p">,</span><span class="w"> </span><span class="n">datasize</span><span class="p">,</span><span class="w"> </span><span class="n">mean</span><span class="p">,</span><span class="w"> </span><span class="n">stdev</span><span class="p">)</span><span class="w">
+      </span><span class="k">write</span><span class="p">(</span><span class="mi">6</span><span class="p">,</span><span class="w"> </span><span class="mi">2010</span><span class="p">)</span><span class="w"> </span><span class="n">mean</span><span class="p">,</span><span class="w"> </span><span class="n">stdev</span><span class="p">,</span><span class="w"> </span><span class="n">datasize</span><span class="w">
+</span></code></pre></div></div>
+
+<p>As with differentiating, I’ve just called a subroutine <code class="language-plaintext highlighter-rouge">stats</code> to do the dirty work of calculating things for me. The variables <code class="language-plaintext highlighter-rouge">mean</code> and <code class="language-plaintext highlighter-rouge">stdev</code> are the ones that will be changed in the subroutine and then given back to me with proper values. Below, I’ve included the subroutine <code class="language-plaintext highlighter-rouge">stats</code>.</p>
+
+<div class="language-fortran highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">c</span><span class="o">=======================================================================</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="k">SUBROUTINE</span><span class="w"> </span><span class="o">--</span><span class="w"> </span><span class="n">STATS</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="o">-------------------</span><span class="w">
+      </span><span class="k">subroutine</span><span class="w"> </span><span class="n">stats</span><span class="p">(</span><span class="n">array</span><span class="p">,</span><span class="w"> </span><span class="nb">size</span><span class="p">,</span><span class="w"> </span><span class="n">mean</span><span class="p">,</span><span class="w"> </span><span class="n">stdev</span><span class="p">)</span><span class="w">
+      </span><span class="k">implicit</span><span class="w"> </span><span class="k">none</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="n">Finds</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">average</span><span class="w"> </span><span class="n">and</span><span class="w"> </span><span class="n">standard</span><span class="w"> </span><span class="n">deviation</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="k">data</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">passed</span><span class="w">
+</span><span class="n">c</span><span class="w">  </span><span class="n">array</span><span class="err">.</span><span class="w"> </span><span class="n">The</span><span class="w"> </span><span class="s1">'mean'</span><span class="w"> </span><span class="n">and</span><span class="w"> </span><span class="s1">'stdev'</span><span class="w"> </span><span class="n">are</span><span class="w"> </span><span class="n">given</span><span class="w"> </span><span class="n">back</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">place</span><span class="w"> </span><span class="k">where</span><span class="w">
+</span><span class="n">c</span><span class="w">  </span><span class="n">they</span><span class="w"> </span><span class="n">were</span><span class="w"> </span><span class="n">called</span><span class="w"> </span><span class="n">from</span><span class="err">.</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="w">     </span><span class="n">Arguments</span><span class="p">:</span><span class="w">
+</span><span class="n">c</span><span class="w">        </span><span class="n">array</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="mi">1</span><span class="o">-</span><span class="n">dimensional</span><span class="w"> </span><span class="n">array</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="kt">real</span><span class="o">*</span><span class="mi">8</span><span class="w"> </span><span class="n">values</span><span class="w"> </span><span class="n">containing</span><span class="w">
+</span><span class="n">c</span><span class="w">                </span><span class="n">the</span><span class="w"> </span><span class="k">data</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">be</span><span class="w"> </span><span class="n">averaged</span><span class="w">
+</span><span class="n">c</span><span class="w">        </span><span class="nb">size</span><span class="w">  </span><span class="o">-</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="s1">'size'</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="s1">'array'</span><span class="w">
+</span><span class="n">c</span><span class="w">        </span><span class="n">mean</span><span class="w">  </span><span class="o">-</span><span class="w"> </span><span class="n">this</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="n">be</span><span class="w"> </span><span class="s2">"returned"</span><span class="p">,</span><span class="w"> </span><span class="n">and</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="n">be</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="kt">real</span><span class="o">*</span><span class="mi">8</span><span class="w"> </span><span class="k">value</span><span class="w">
+</span><span class="n">c</span><span class="w">                </span><span class="n">of</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">mean</span><span class="w">
+</span><span class="n">c</span><span class="w">        </span><span class="n">stdev</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">this</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="n">be</span><span class="w"> </span><span class="s2">"returned"</span><span class="p">,</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="n">be</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="kt">real</span><span class="o">*</span><span class="mi">8</span><span class="w"> </span><span class="k">value</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">std</span><span class="w">
+</span><span class="n">c</span><span class="w">
+      </span><span class="kt">integer</span><span class="w"> </span><span class="nb">size</span><span class="w">
+      </span><span class="kt">real</span><span class="o">*</span><span class="mi">8</span><span class="w">  </span><span class="n">array</span><span class="p">(</span><span class="nb">size</span><span class="p">)</span><span class="w">
+      </span><span class="kt">real</span><span class="o">*</span><span class="mi">8</span><span class="w">  </span><span class="n">mean</span><span class="p">,</span><span class="w"> </span><span class="n">stdev</span><span class="w">
+</span><span class="n">c</span><span class="w">
+      </span><span class="kt">integer</span><span class="w"> </span><span class="n">i</span><span class="w">
+      </span><span class="kt">real</span><span class="o">*</span><span class="mi">8</span><span class="w">  </span><span class="n">tot</span><span class="w">
+</span><span class="n">c</span><span class="o">-----------------------------------------------------------------------</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="n">Compute</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">mean</span><span class="w">
+</span><span class="n">c</span><span class="w">     </span><span class="n">First</span><span class="p">,</span><span class="w"> </span><span class="n">get</span><span class="w"> </span><span class="n">total</span><span class="w">
+      </span><span class="n">tot</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mf">0.0d0</span><span class="w">
+      </span><span class="k">do</span><span class="w"> </span><span class="mi">10</span><span class="w"> </span><span class="n">i</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="nb">size</span><span class="w">
+        </span><span class="n">tot</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">tot</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="n">array</span><span class="p">(</span><span class="n">i</span><span class="p">)</span><span class="w">
+</span><span class="nl">10</span><span class="w">    </span><span class="k">continue</span><span class="w">
+</span><span class="n">c</span><span class="w">     </span><span class="k">Then</span><span class="p">,</span><span class="w"> </span><span class="n">divide</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="nb">size</span><span class="w"> </span><span class="n">of</span><span class="w"> </span><span class="n">array</span><span class="w">
+      </span><span class="n">mean</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">tot</span><span class="w"> </span><span class="p">/</span><span class="w"> </span><span class="nb">dble</span><span class="p">(</span><span class="nb">size</span><span class="p">)</span><span class="w">
+</span><span class="n">c</span><span class="w">
+</span><span class="n">c</span><span class="w"> </span><span class="n">Compute</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">stdev</span><span class="w">
+      </span><span class="n">tot</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mf">0.0d0</span><span class="w">
+      </span><span class="k">do</span><span class="w"> </span><span class="mi">11</span><span class="w"> </span><span class="n">i</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span><span class="w"> </span><span class="nb">size</span><span class="w">
+        </span><span class="n">tot</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">tot</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="p">(</span><span class="w"> </span><span class="n">array</span><span class="p">(</span><span class="n">i</span><span class="p">)</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="n">mean</span><span class="w"> </span><span class="p">)</span><span class="o">**</span><span class="mi">2</span><span class="w">
+</span><span class="nl">11</span><span class="w">    </span><span class="k">continue</span><span class="w">
+      </span><span class="n">stdev</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">sqrt</span><span class="p">(</span><span class="mf">1.0d0</span><span class="p">/</span><span class="nb">dble</span><span class="p">(</span><span class="nb">size</span><span class="mi">-1</span><span class="p">)</span><span class="w"> </span><span class="o">*</span><span class="w"> </span><span class="n">tot</span><span class="p">)</span><span class="w">
+</span><span class="n">c</span><span class="w">
+      </span><span class="k">return</span><span class="w">
+      </span><span class="k">end</span><span class="w">
+</span><span class="n">c</span><span class="o">=======================================================================</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Now, this should all be code that we’ve seen before. The only new bit of code might come near the end, right after the <code class="language-plaintext highlighter-rouge">11 continue</code> line. In this line, I want to be sure to avoid <em>mixed arithmetic</em>, which means I want to be sure I don’t do any math with an <code class="language-plaintext highlighter-rouge">integer</code> and a <code class="language-plaintext highlighter-rouge">real*8</code> variable, etc. So, I use the command <code class="language-plaintext highlighter-rouge">dble( STUFF )</code> to be sure that the value <code class="language-plaintext highlighter-rouge">STUFF</code> is a double-precision (or <code class="language-plaintext highlighter-rouge">real*8</code>) value. The equations which I am following are the typical equations for finding the mean and the standard deviation, as follows:</p>
+
+\[\mathrm{mean}=\bar{x}=\dfrac{1}{N}\Sum^N_{i=1}x_i, \:\:\: \mathrm{stdev}=\sigma=\sqrt{\dfrac{1}{N-1}\Sum^N_{i=1}(x_i-\bar{x})^2}.\]
+
+<p>And that’s it! We’re all finished with the program we wanted to accomplish!</p>
+
+<p>Now how do we run it…?</p>
+
+<h1 id="Compiling">Compiling and Running a Fortran Program</h1>
+
+<p>Ok, we’ve gotten pretty far. We have a nice program written that calculates something physical, using computational methods - incredible! The next step is to compile the code.</p>
+
+<blockquote>
+  <p>[!WARNING]
+This section is relevant for Unix-based operating systems, like MacOS or Linux systems, or for use on the SMU A&amp;P servers.</p>
+</blockquote>
+
+<p>On the A&amp;P servers like Mars or Andromeda (and everywhere else, in general), the main Fortran compiler is <code class="language-plaintext highlighter-rouge">gfortran</code>.<sup id="fnref:12"><a href="#fn:12" class="footnote" rel="footnote" role="doc-noteref">12</a></sup> The process to compile the code is simple. Type <code class="language-plaintext highlighter-rouge">gfortran filename.f</code> into a command-line, press <code class="language-plaintext highlighter-rouge">enter</code>, and the program will compile (assuming there are no errors…). If there are errors, warning and error messages will pop up and attempt to describe what went wrong. Often, these error messages aren’t very useful. C’est la vie.</p>
+
+<p>Once you compile your program, you will notice a new file in your directory called <code class="language-plaintext highlighter-rouge">a.out</code>, which is your executable program!! To run this program, type <code class="language-plaintext highlighter-rouge">./a.out</code> into your command-line. Magic! Your program will run! If you used the same <code class="language-plaintext highlighter-rouge">in.dat</code> that I did, this is the output you’ll see:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>STATS: The average electric field strength was 
+STATS:  20.000     N/C with a sample standard deviation
+STATS: of  6.78745E-15 N/C
+STATS: This was calculated using   21 data points.
+</code></pre></div></div>
+
+<p>Awesome! We’ve written code to solve a problem and to analyze data! If you want to give your executable file a certain name, use the code</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gfortran potentialfield.f -o potentialfield
+</code></pre></div></div>
+
+<p>which will create an executable called <code class="language-plaintext highlighter-rouge">potentialfield</code>, and to run this file, you should type <code class="language-plaintext highlighter-rouge">./potentialfield</code> into your command line and press <code class="language-plaintext highlighter-rouge">enter</code>.</p>
+
+<h1 id="Conclusion">Conclusion</h1>
+
+<p>I know this has been a very long introduction to the way Fortran 77 behaves, but I hope that this exposure to Fortran 77 now (before Computational Physics begins) will make you more comfortable dealing with the code you could see in a Fortran-based computational physics class.</p>
+
+<p>It’s important to remember that Fortran (even the ‘77 version) is just a tool that can be used to solve a problem. Fortran is a language that runs quite quickly (compared to some languages like Python), and is excellent to solve math and physics problems with for this reason. <a href="https://ap.smu.ca/~thacker" target="_blank" rel="noopener noreferrer">Dr. Thacker</a> and I have worked with galaxy simulation code HYDRA which is written in Fortran 77, and it’s what I used for my honours thesis work. Fortran isn’t necessarily my favorite language to work in, but it’s the language that makes the most sense for the work that it is used for – it’s fast, it’s easy to write, and it’s simple.</p>
+
+<h1 id="Notes">Extra Notes</h1>
+
+<p><strong>THAT MAY OR MAY NOT HAVE MADE IT INTO THE REST OF THE PAGE:</strong></p>
+
+<ol>
+  <li>Fortran 77 only allows 72 characters per line. Anything over 72 characters will cause an error. It might be a good idea to use a text editor that shows the column number? I use <a href="https://www.barebones.com/products/bbedit/" target="_blank" rel="noopener noreferrer">BBEdit</a> and I can add a vertical line at column 72, so I know I won’t ever type too far.</li>
+  <li>For comments, use <code class="language-plaintext highlighter-rouge">c</code>. Using <code class="language-plaintext highlighter-rouge">!</code> for in-line comments works (and I use it), but is not part of the Fortran 77 “standard.”</li>
+  <li>All Fortran 77 code must start in the 7th column. Labels must start at the first column, and “continuation” indicators must be in 6th column. Not the easiest to get used to, but it’ll be ok.</li>
+  <li>In declarations, <code class="language-plaintext highlighter-rouge">parameter</code> means the value is FIXED and cannot be changed ever in the program. However, <code class="language-plaintext highlighter-rouge">data</code> just means you’re giving something an initial value, it’s NOT fixed forever.</li>
+  <li>I believe that Unit 6 is standard output (to the screen), and Unit 5 is the standard input (what you could enter with your keyboard).</li>
+  <li>Original Fortran 77 didn’t allow variable names &gt;8 characters, but compilers usually let it slide now.</li>
+  <li>In my program, I always ended <code class="language-plaintext highlighter-rouge">do-loops</code> with a label and then a <code class="language-plaintext highlighter-rouge">continue</code> statement. However, although not standard Fortran 77, <code class="language-plaintext highlighter-rouge">end do</code> is also an acceptable way to end do-loops.</li>
+  <li>As mentioned elsewhere (but important enough to mention again!), Fortran arrays start at index 1, not 0 like most other programming languages.</li>
+  <li>If something is passed to a subroutine, the <em>actual</em> variable is passed, not just a copy of the value. In other words, Fortran passes by <em>reference</em>, <strong>not</strong> by <em>value</em>. This <a href="https://i.stack.imgur.com/QdcG2.gif" target="_blank" rel="noopener noreferrer">image</a> is a good example of the difference between passing by reference and by value.</li>
+  <li>Instead of leaving blank lines in your code, just add a <code class="language-plaintext highlighter-rouge">c</code> at the beginning of the line, commenting out the entire line.</li>
+  <li>Do not do mixed arithmetic! It is actually possible to cause math errors if you do this. For instance, if I attempt to divide a double-precision value by an integer, it is unlikely that the correct result is returned.</li>
+  <li>Elements of arrays can be accessed with ( ), not [ ] like in Python or C++.</li>
+</ol>
+
+<h1 id="Footnotes">Footnotes</h1>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Yep, every single line. You get really good at hitting the space bar 6 times before starting to type. Then it takes over your life. You can’t write anything before hitting the spacebar six times… <a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:2">
+      <p>Additionally, none of the lines in your program should be blank. Instead of a blank line, put a <code class="language-plaintext highlighter-rouge">c</code> in the first column of the line so the compiler ignores the line entirely. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:3">
+      <p>In my code, I declare the variables <code class="language-plaintext highlighter-rouge">infile</code> and <code class="language-plaintext highlighter-rouge">outfile</code> as <code class="language-plaintext highlighter-rouge">character*32</code>. Here, the 32 means that I want to reserve 32 spaces for the name of infile or outfile to be stored in. Therefore, the maximum length of these <em>strings</em> is 32. This can be changed to whatever is necessary for any situation. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:4">
+      <p>In Fortran, <code class="language-plaintext highlighter-rouge">real*8</code> means double-precision, which means that the computer saves 64 digits of the number. It is just a precise way of storing a number that requires a decimal point. You’ll use numbers like <code class="language-plaintext highlighter-rouge">1.0d0</code> or <code class="language-plaintext highlighter-rouge">8.617d-5</code> in your code, where the <code class="language-plaintext highlighter-rouge">d</code> acts as a “10 to the power of” the same way that <code class="language-plaintext highlighter-rouge">e</code> in <code class="language-plaintext highlighter-rouge">6.2e23</code> does. You’ll <em>always</em> have to use the <code class="language-plaintext highlighter-rouge">.</code> and <code class="language-plaintext highlighter-rouge">d</code> in numbers that are declared as <code class="language-plaintext highlighter-rouge">real*8</code>. <a href="#fnref:4" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:5">
+      <p>Remember: The declaration doesn’t actually have to be written <em>first</em>. It’s often useful to write part of it, thinking about the variables you’ll need to keep track of, but feel free to go back at a later time to write the declarations (before compiling). <a href="#fnref:5" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:6">
+      <p>You’ll see that Fortran 77 really likes to use integers to represent or <em>label</em> specific things. You’ll see it when opening files, when wanting to jump to a specific spot in the code, and in <code class="language-plaintext highlighter-rouge">format</code> statements. <a href="#fnref:6" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:7">
+      <p>Typically, [ ] is used in displaying code to indicate something that is optional. For example, if a program asks for: First Name [Last Name], it would mean it <em>required</em> your first name, but that the Last Name is optional to provide – it’ll run the same with or without it, and providing it just gives the computer more information to be used. <a href="#fnref:7" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:8">
+      <p>It’s bad practice to not <code class="language-plaintext highlighter-rouge">close</code> a file that was <code class="language-plaintext highlighter-rouge">open</code>ed by a program. If a file is open in one program, it is either inaccessible by other programs or multiple programs will attempt to use it at once – both are very bad. We want to be sure we keep files open for only as long as we need. <a href="#fnref:8" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:9">
+      <p>An <em>important</em> thing to remember about arguments (the variables that are passed between subroutines or functions) in Fortran are not <strong>copies</strong> of the variables, but rather <strong>the variables themselves</strong>. Therefore, if the value of a variable is changed inside a subroutine, <em>it’s changed forever, everywhere in the program!</em> <a href="#fnref:9" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:10">
+      <p>Interestingly, I don’t think that Fortran allows comments like this (with the <code class="language-plaintext highlighter-rouge">#</code>) in files that it’s reading from. Try it - You’ll likely get an error like I did. <a href="#fnref:10" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:11">
+      <p>There’s a LOT more that goes into these format statements, but I recommend a good Google to figure out anything if you need. Likely, you’ll just follow whatever <code class="language-plaintext highlighter-rouge">format</code> statements you find here or that your professor has, and hope for the best. <a href="#fnref:11" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:12">
+      <p><code class="language-plaintext highlighter-rouge">gfortran</code> can be downloaded onto your own computer. A good way to see if it already exists on your machine is to open a terminal (on a Unix-based machine) and type <code class="language-plaintext highlighter-rouge">gfortran</code> then hit <code class="language-plaintext highlighter-rouge">enter</code>. If you get an error saying the command is not recognized, you’ll have to download it – or, just always use the A&amp;P servers (like Mars or Andromeda). <a href="#fnref:12" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+  </ol>
+</div>
+
+  </article>
+
+</div>
+
+    </div>
+
+    <!-- Footer -->    
+    <footer class="fixed-bottom">
+      <div class="container mt-0">
+        © Copyright 2025 Tiffany  Fields, MSc.. Last updated: January 23, 2025.
+      </div>
+    </footer>
+
+    <!-- JavaScripts -->
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Bootsrap & MDB scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.2/dist/umd/popper.min.js" integrity="sha256-l/1pMF/+J4TThfgARS6KwWrk/egwuVvhRzfLAMQ6Ds4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha256-SyTu6CwrfOhaznYZPoolVw2rxoY7lKYKQvqbtqN93HI=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    <!-- Mansory & imagesLoaded -->
+  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script defer src="/assets/js/mansory.js" type="text/javascript"></script>
+    
+  <!-- Medium Zoom JS -->
+  <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
+  <script src="/assets/js/zoom.js"></script><!-- Load Common JS -->
+  <script src="/assets/js/common.js"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams'
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    
+  </body>
+</html>
+
