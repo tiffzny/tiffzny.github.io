@@ -1,1 +1,7 @@
+description: "Tiffany Fields; online!"
+email: "tiffzny@gmail.com"
+github: "https://github.com/tiffzny"
 
+collections:
+  blogposts:
+    output: true
