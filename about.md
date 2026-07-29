@@ -1,9 +1,8 @@
 ---
 layout: default
 theme: baby-style
+title: About Tiffany
 ---
-
-Tiffany Fields - About Page
 
 <a rel="me" href="https://astrodon.social/@tiffzny"></a>
 <p style="color: #d92bb6;">I help <em>a lot</em> of people enjoy the sky.</p>
