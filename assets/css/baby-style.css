@@ -1,3 +1,22 @@
+/* -----------------------------------
+Things that are differen here compared to style.css:
+body -> background-colour:
+article -> 
+article {
+	font-size: 16px;
+	grid-area: ct;
+	background: white;
+    padding: 30px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+
+RATHER THAN what exists in style.css:
+article {
+	font-size: 16px;
+	grid-area: ct;
+	border-top: 2px solid #e7e7e7;
+------------------------------------ */
 body {
 	/*display: flex;
     flex-direction: column;
@@ -18,7 +37,7 @@ body {
 	grid-template-areas:
 		"header nav"
 		"ct ct";
-	background-color: #93a1c4;
+	background-color: #1c1c84;
 }
 header {
 	margin: 0px;
