@@ -1,6 +1,6 @@
 ---
 layout: default
-theme: baby-style
+theme: style
 title: "About Tiffany"
 ---
 
