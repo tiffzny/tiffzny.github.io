@@ -8,6 +8,7 @@ title: "Tiffany's Baby Shower"
 Illinois; USA</h1>
 
 Honestly, we're just so thrilled that you're willing to spend the day with us; we're so excited to see all the family before the little one arrives (and before I'm too big to travel!).
+*We hope you'll come celebrate with us!*
 
 If you're wanting to contribute to Baby's supplies, see the Registry links below. (And, thank you so much in advance!)
 
