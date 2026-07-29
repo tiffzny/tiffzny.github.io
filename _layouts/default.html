@@ -9,13 +9,16 @@
   </head>
   
   <body>
-    <header>{{ page.title }} HEADER TAG </header>
+    <header>
+      <a href="{{ '/' | relative_url }}">Tiffany Fields</a>
+    </header>
     
     <nav>
       {% include navigation.html %}
     </nav>    
     
     <article>
+      <h1>{{ page:title }} H1 tag</h1>
       {{ content }}
     </article>
     
