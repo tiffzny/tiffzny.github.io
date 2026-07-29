@@ -36,4 +36,6 @@ along with
 * Do I have to dress up??
   * Absolutely not. 🙏 Wear what you'd like, knowing that Tiffany and Blair will likely want to get a photo with you! :)
 
+And let's all give a huge thanks to Ashlee for organizing this! 👏
+
 <img alt="Ultrasound image" style="float: left; margin-right: 1em" width="100%" src="assets/img/ultrasound.PNG"/>
