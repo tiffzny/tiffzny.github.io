@@ -31,5 +31,7 @@ We have been so excited to pick-up a number of previously-loved items from frien
 <h2>Frequently Asked Questions:</h2>
 * But how are you going to get this all home on an airplane????
   * The hope is we'll receive items that will fit into a checked bag! We have *plenty* of luggage space; but checked bags have size limits! If you're interested in helping us with something larger than will typically fit in a checked bag, we'd be grateful, AND reach out to my mom (Kris) or cousin Ashlee. 
+* Do I have to dress up??
+  * Absolutely not. 🙏 Wear what you'd like, knowing that Tiffany and Blair will likely want to get a photo with you! :)
 
 <img alt="Ultrasound image" style="float: left; margin-right: 1em" width="100%" src="assets/img/ultrasound.PNG"/>
