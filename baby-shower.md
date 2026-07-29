@@ -16,6 +16,8 @@ Honestly, we're just so thrilled that you're willing to spend the day with us; w
 → Do you intend to ship items to **Canada**? Use Amazon Canada (Amazon.ca); this Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia. If for some reason you need a Canadian postal code to see what is available, use B3H3C3.
 (**Tip:** My mother Kris has purchase Canadian Amazon Prime; you could save on shipping! Or, sign-up for your own free trial if you're so inclined.)
 
+My goal: I would love to see what you want to share with us and the baby. Do you have a favourite book you'd like to gift? Pre-loved clothes or baby items (or pre-loved books)?
+
 <h2>What do we already have?</h2>
 We have been so excited to pick-up a number of previously-loved items from friends, colleagues, and neighbours, including:
 * A crib!
