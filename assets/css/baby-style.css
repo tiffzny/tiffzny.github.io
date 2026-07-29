@@ -16,6 +16,8 @@ article {
 	font-size: 16px;
 	grid-area: ct;
 	border-top: 2px solid #e7e7e7;
+
+header -> added color: #fff; to make text WHITE
 ------------------------------------ */
 body {
 	/*display: flex;
@@ -43,7 +45,7 @@ header {
 	margin: 0px;
 	font-size: 23px;
 	font-weight: bold;
-	
+	color: #fff;
 	grid-area: header;
 	justify-self: left;
 	align-self: end;
