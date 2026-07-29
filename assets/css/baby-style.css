@@ -46,6 +46,7 @@ article {
 	
 	grid-area: ct;
 	border-top: 2px solid #e7e7e7;
+	background-color: #fff;
 }
 h2 {
 	margin-top: 1em;
