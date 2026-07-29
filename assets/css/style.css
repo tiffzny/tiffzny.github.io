@@ -17,7 +17,7 @@ body {
 	grid-template-rows: 60px auto;
 	grid-template-areas:
 		"header nav"
-		"ct ct"
+		"ct ct";
 }
 header {
 	margin: 0px;
@@ -90,6 +90,6 @@ hr {
 		justify-self: center;
 	}
 	nav a{
-		margine: 0 10px;
+		margin: 0 10px;
 	}
 }
