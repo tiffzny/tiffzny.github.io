@@ -1,7 +1,7 @@
 body {
-	display: flex;
+	/*display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 100vh;*/
 	
 	margin: 0 auto; 
 	max-width: 700px;
@@ -10,10 +10,10 @@ body {
 	font-family: "Arial", "Helvetica", sans-serif;
 	color: #444;
 	line-height: 1.25;
-	
+
 	display: grid;
 	row-gap: 5px;
-	grid-template-columns: auto auto;
+	grid-template-columns: 1fr auto;
 	grid-template-rows: 60px auto;
 	grid-template-areas:
 		"header nav"
