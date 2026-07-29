@@ -4,7 +4,7 @@ body -> background-colour:
 
 article -> 
 article {
-	font-size: 12px;
+	font-size: 14px;
 	grid-area: ct;
 	background: white;
     padding: 30px;
@@ -67,7 +67,7 @@ nav a {
 	color: #9595c7;
 }
 article {
-	font-size: 12px;
+	font-size: 14px;
 	
 	grid-area: ct;
 	/*border-top: 2px solid #e7e7e7;
