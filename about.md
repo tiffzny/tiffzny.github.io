@@ -1,7 +1,7 @@
 ---
 layout: default
 theme: baby-style
-title: About Tiffany
+title: "About Tiffany"
 ---
 
 <a rel="me" href="https://astrodon.social/@tiffzny"></a>
