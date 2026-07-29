@@ -1,6 +1,7 @@
 /* -----------------------------------
 Things that are differen here compared to style.css:
 body -> background-colour:
+
 article -> 
 article {
 	font-size: 16px;
@@ -18,6 +19,8 @@ article {
 	border-top: 2px solid #e7e7e7;
 
 header -> added color: #fff; to make text WHITE
+
+nav a -> color: #9595c7
 ------------------------------------ */
 body {
 	/*display: flex;
@@ -61,6 +64,7 @@ nav {
 nav a {
 	margin-left: 20px;
 	text-align: right;
+	color: #9595c7;
 }
 article {
 	font-size: 16px;
