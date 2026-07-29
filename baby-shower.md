@@ -9,6 +9,8 @@ Illinois; USA</h1>
 
 Honestly, we're just so thrilled that you're willing to spend the day with us; we're so excited to see all the family before the little one arrives (and before I'm too big to travel!).
 
+If you're wanting to contribute to Baby's supplies, see the Registry links below. (And, thank you so much in advance!)
+
 <h1>Registries:</h1>
 * [Amazon USA](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
 → Do you intend to ship items to the **United States**? Use Amazon.com; this Amazon.com list will ship to Tiffany's mom house in Illinois.
