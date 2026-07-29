@@ -22,11 +22,13 @@ If you're wanting to contribute to Baby's supplies, see the Registry links below
 My goal: I would love to see what you want to share with us and the baby. Do you have a favourite book you'd like to gift? Pre-loved clothes or baby items (or pre-loved books)?
 
 <h2>What do we already have?</h2>
-We have been so excited to pick-up a number of previously-loved items from friends, colleagues, and neighbours, including:
-* A crib!
-* A bassinet!
-* A wiiiiide variety of pre-loved clothes
-* A "pack-and-play"
+We have been so grateful to collect a number of previously-loved items from friends, colleagues, and neighbours. That means we already have a few of the larger items, like
+* a crib!
+* a bassinet!
+* and a "pack-and-play"
+along with
+* a wiiiiide variety of pre-loved clothes.
+
 
 <h2>Frequently Asked Questions:</h2>
 * But how are you going to get this all home on an airplane????
