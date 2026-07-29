@@ -21,3 +21,5 @@ What do we already have? We have been so excited to pick-up a number of previous
 Frequently Asked Questions:
 * But how are you going to get this all home on an airplane????
   * The hope is we'll receive items that will fit into a checked bag! We have *plenty* of luggage space; but checked bags have size limits! If you're interested in helping us with something larger than will typically fit in a checked bag, we'd be grateful, AND reach out to my mom (Kris) or cousin Ashlee. 
+
+<img alt="Ultrasound image" style="float: left; margin-right: 1em" width="100%" src="assets/img/ultrasound.PNG"/>
