@@ -6,7 +6,7 @@ theme: baby-style
 Tiffany Fields - About Page
 
 <a rel="me" href="https://astrodon.social/@tiffzny"></a>
-**I help a *lot* of people enjoy the sky.**
+<p style="color: #d92bb6;">I help <em>a lot</em> of people enjoy the sky.</p>
 
 <img alt="Image of Tiffany standing at the end of a telescope." style="float: left; margin-right: 1em" width="25%" src="assets/img/Tiffany_Cropped.jpg"/>
 
