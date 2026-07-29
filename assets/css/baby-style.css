@@ -4,7 +4,7 @@ body {
 	min-width: 0;
 	padding: 0 10px 25px;
 	font-family: "Arial", "Helvetica", sans-serif;
-	color: #a9b2c9 /* #444; */
+	color: #a9b2c9; /*#444*/
 	line-height: 1.25;
 	
 	display: grid;
