@@ -57,7 +57,7 @@ We are grateful to have collected a number of previously-loved items from friend
 
 ### But how are you going to get this all home on an airplane????
 
-Valid concern. The hope is we'll receive items that will fit into a checked bag! We have *plenty* of luggage space to bring home on the plane; but checked bags have size limits! If you're interested in helping us with something larger than will typically fit in a checked bag (like a carseat or stroller), we'd be grateful, AND reach out to my mom (Kris) or cousin Ashlee, or to Tiffany.
+Valid concern. The hope is we'll receive items that will fit into checked bags! We have *plenty* of luggage space to bring home on the plane; but checked bags have size limits! If you're interested in helping us with something larger than will typically fit in a checked bag (like a carseat or stroller), we'd be grateful, AND reach out to my mom (Kris) or cousin Ashlee, or to Tiffany.
 
 <hr>
 
