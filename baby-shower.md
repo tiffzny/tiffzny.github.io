@@ -16,7 +16,7 @@ If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the
 # 🔭 Registries:
 * [Amazon USA List](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
 
-→ Do you intend to ship items to the **United States**? Use Amazon USA (Amazon.com); this Amazon.com list will ship to Tiffany's mom house in Illinois by default (you don't need to put in her address!) or can be shipped to a custom address (like your own).
+→ Do you intend to ship items to the **United States**? Use Amazon USA (Amazon.com); this Amazon.com list will ship to Tiffany's mom's house in Illinois by default (you don't need to put in her address!) or can be shipped to a custom address (like your own).
 
 * [Amazon Canada List](https://www.amazon.ca/baby-reg/tiffany-fields-november-2026-dartmouth/IG8SSVX2ZG4O)
 
