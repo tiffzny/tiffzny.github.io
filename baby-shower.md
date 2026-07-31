@@ -47,7 +47,7 @@ We Canadians do not have Venmo or Cashapp. Tiffany has PayPal to accept digital 
 
 In the US, bring them to the shower with you on Aug 22! Or, you can drop-off or ship to my Mom's home (Moline, IL).
 
-To Canada, you can ship directly to my home (Dartmouth, NS). 
+To Canada, you can ship directly to our home (Dartmouth, NS). 
 
 In order to not publish our addresses on the public internet... reach out to Tiffany or Blair, my Dad (Jason), my Mom (Kris), or my cousin Ashlee via various means to get specific addresses if you need! ❤️
 
