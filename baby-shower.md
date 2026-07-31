@@ -27,10 +27,6 @@ Though diapers and wipes are an extremely useful baby shower gift... We'd have a
   * **PayPal:** tiffzny [at] gmail [dot] com
   * **Venmo:** @Ashlee-Boelens (last 4 digits = 7010)
   * **Cash App:** $AshleeBoelens
- 
-## RSVP ?
-
-No need????
 
 <hr> 
 
