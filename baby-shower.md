@@ -9,35 +9,50 @@ title: "Tiffany's Baby Shower"
 Honestly, we're just thrilled that you're willing to spend part of the day with us; we're excited to see all the family before the little one arrives (and before I'm too big to travel!).
 *We hope you'll come celebrate with us!*
 
-If you're wanting to contribute to Baby Boy's supplies, see the Registry links below. (And, thank you so much in advance!)
+If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the Registries links below. (And, thank you so much in advance!)
 
 # 🔭 Registries:
-* [Amazon USA](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
+* [Amazon USA List](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
 
-→ Do you intend to ship items to the **United States**? Use Amazon USA (aka Amazon.com); this Amazon.com list will ship to Tiffany's mom house in Illinois by default (you don't need to put in her address!).
+→ Do you intend to ship items to the **United States**? Use Amazon USA (Amazon.com); this Amazon.com list will ship to Tiffany's mom house in Illinois by default (you don't need to put in her address!) or can be shipped to a custom address (like your own).
 
-* [Amazon Canada](https://www.amazon.ca/baby-reg/tiffany-fields-november-2026-dartmouth/IG8SSVX2ZG4O)
+* [Amazon Canada List](https://www.amazon.ca/baby-reg/tiffany-fields-november-2026-dartmouth/IG8SSVX2ZG4O)
 
 → Do you intend to ship items to **Canada**? Use Amazon Canada (Amazon.ca); this Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia by default (you don't need to put in our address!). 
 
-If for some reason you need a Canadian postal code to see what is available, use B3H3C3 (this isn't MY postal code, but it is nearby and good enough for just browsing! My actual address will populate from the registry)
+If for some reason you need a Canadian postal code to see what is available on Amazon.ca, use B3H3C3 (this isn't OUR postal code, but it is nearby and good enough for just browsing! Our actual address will populate from the registry)
 (**Tip:** My mother Kris has purchase Canadian Amazon Prime; you could save on shipping! Or, sign-up for your own free trial if you're so inclined.)
 
-**My goal: I would love to see what you want to share with us and the baby. Do you have a favourite book you'd like to gift? Pre-loved clothes or baby items (or pre-loved books)?**
- 
-## Ok but where can I send things to directly?
-In the US, you can drop-off or ship to my Mom's home (Moline, IL). Better yet, bring them to the shower with you on Aug 22!
+**Note: We are *very* into second-hand or pre-loved items. Do you have a favourite pre-loved book you want to share? Pre-loved outfits or other baby items that are still in good condition? These things would make excellent gifts.**
+
+# 👨‍🚀 Frequently Asked Questions:
+
+## Do I have to dress up??
+
+This was my first question too. 🙏 Wear what you'd like, knowing that Tiffany and Blair will likely want to get a photo with you! :)
+
+## Can I Venmo you so you can get diapers or whatever else you need? 
+
+You can Venmo my cousin Ashlee! Or Cashapp. She'll be sure it gets to me. [Usernames will be here, tbd]
+
+We Canadians do not have Venmo or Cashapp. Tiffany has PayPal to accept digital US dollars, email: tiffzny [at] gmail [dot] com. 
+
+(For Canadians: e-transfers to the same email address are excellent! I do not have auto-deposit turned on so leave me an easy password please.)
+
+## Can I ship things directly to you?
+
+In the US, bring them to the shower with you on Aug 22! Or, you can drop-off or ship to my Mom's home (Moline, IL).
 
 To Canada, you can ship directly to my home (Dartmouth, NS). 
 
 In order to not publish our addresses on the public internet... reach out to me or Blair, my Dad (Jason), my Mom (Kris), or my cousin Ashlee via various means to get specific addresses if you need! ❤️
 
-## 👨‍🚀 Frequently Asked Questions:
-* It looks like you're missing some items on your registry... What do you already have?
-  * We are grateful to have collected a number of previously-loved items from friends, colleagues, and neighbours. We already have a crib, bassinet, a "pack-and-play," and an assortment of pre-loved clothes.
-* But how are you going to get this all home on an airplane????
-  * Valid concern. The hope is we'll receive items that will fit into a checked bag! We have *plenty* of luggage space; but checked bags have size limits! If you're interested in helping us with something larger than will typically fit in a checked bag, we'd be grateful, AND reach out to my mom (Kris) or cousin Ashlee, or to Tiffany.
-* Do I have to dress up??
-  * Absolutely not. 🙏 Wear what you'd like, knowing that Tiffany and Blair will likely want to get a photo with you! :)
+## It looks like you're missing some items on your registry... What do you already have?
+
+We are grateful to have collected a number of previously-loved items from friends, colleagues, and neighbours. We already have a crib, bassinet, a "pack-and-play," and an assortment of pre-loved clothes. But, you're right. I'm probably missing other items! I'm doing this for the first time, ok?!
+
+## But how are you going to get this all home on an airplane????
+
+Valid concern. The hope is we'll receive items that will fit into a checked bag! We have *plenty* of luggage space to bring home on the plane; but checked bags have size limits! If you're interested in helping us with something larger than will typically fit in a checked bag (like a carseat or stroller), we'd be grateful, AND reach out to my mom (Kris) or cousin Ashlee, or to Tiffany.
 
 <img alt="Ultrasound image" style="float: left; margin-right: 1em" width="100%" src="assets/img/ultrasound.PNG"/>
