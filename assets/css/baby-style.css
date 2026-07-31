@@ -24,7 +24,7 @@ nav a -> color: #9595c7
 nav -> font-size:
 h1 -> color: 
 h2 -> color:
-strong -> color:
+strong, b -> color:
 a -> color:
 ------------------------------------ */
 body {
@@ -88,11 +88,8 @@ h2 {
 	padding-top: 1m;
 	color: #49a3ad;
 }
-strong {
+strong, b {
 	color: ##8e56bf; /*purple*/
-}
-b {
-	color: #222;
 }
 h3 {
 	color: #d92bb6; /*magenta-ish*/
