@@ -11,6 +11,8 @@ Honestly, we're just thrilled that you're willing to spend part of the day with 
 
 If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the Registries links below. (And, thank you so much in advance!)
 
+<hr>
+
 # 🔭 Registries:
 * [Amazon USA List](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
 
@@ -24,6 +26,8 @@ If for some reason you need a Canadian postal code to see what is available on A
 (**Tip:** My mother Kris has purchase Canadian Amazon Prime; you could save on shipping! Or, sign-up for your own free trial if you're so inclined.)
 
 **Note: We are *very* into second-hand or pre-loved items. Do you have a favourite pre-loved book you want to share? Pre-loved outfits or other baby items that are still in good condition? These things would make excellent gifts.**
+
+<hr>
 
 # 👨‍🚀 Frequently Asked Questions:
 
@@ -54,5 +58,7 @@ We are grateful to have collected a number of previously-loved items from friend
 ## But how are you going to get this all home on an airplane????
 
 Valid concern. The hope is we'll receive items that will fit into a checked bag! We have *plenty* of luggage space to bring home on the plane; but checked bags have size limits! If you're interested in helping us with something larger than will typically fit in a checked bag (like a carseat or stroller), we'd be grateful, AND reach out to my mom (Kris) or cousin Ashlee, or to Tiffany.
+
+<hr>
 
 <img alt="Ultrasound image" style="float: left; margin-right: 1em" width="100%" src="assets/img/ultrasound.PNG"/>
