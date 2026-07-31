@@ -93,14 +93,14 @@ strong, b {
 	color: #49a3ad;
 }
 h3 {
-	color: #d92bb6; /*magenta-ish*/
+	color: #43c7de;
 }
 h1 {
 	color: #65629c;
 	font-size: 26px;
 }
 a {
-	color: #43c7de; 
+	color: #d92bb6; /*magenta-ish*/
 }
 hr {
     border:0;
