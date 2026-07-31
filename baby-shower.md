@@ -8,19 +8,19 @@ title: "Tiffany & Blair's Baby Shower"
 
 ## What
 
-### Celebrate upcoming Baby Boy with Tiffany & Blair! This is a *co-ed* event, everyone is invited to our Baby Shower to give us an opportunity to spend time with friends and family and help prep for all of Baby's needs!
+**Celebrate upcoming Baby Boy with Tiffany & Blair!** This is a ***co-ed*** event, everyone is invited to our Baby Shower to give us an opportunity to spend time with friends and family and help prep for all of Baby's needs!
 
 ## When 
 
-### Saturday August 22nd + time details
+Saturday August 22nd + time details
 
 ## Where
 
-### Location details
+Location details
 
 ## More details
 
-### Though diapers and wipes are an extremely useful baby shower gift... We'd have a hard time taking big diaper boxes back on the plane! There is a *DAIPER RAFFLE* set-up so you can contribute what you might have spend on a box of diapers or wipes. 
+Though diapers and wipes are an extremely useful baby shower gift... We'd have a hard time taking big diaper boxes back on the plane! There is a *DAIPER RAFFLE* set-up so you can contribute what you might have spend on a box of diapers or wipes. 
 * Cash, Check, PayPal, Venmo, or Cash App is great!
   * PayPal: tiffzny [at] gmail [dot] com
   * Venmo: @Ashlee-Boelens (last 4 digits = 7010)
@@ -28,7 +28,7 @@ title: "Tiffany & Blair's Baby Shower"
  
 ## RSVP ?
 
-### No need????
+No need????
 
 <hr> 
 
