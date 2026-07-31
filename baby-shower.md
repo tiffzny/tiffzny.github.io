@@ -28,7 +28,19 @@ If for some reason you need a Canadian postal code to see what is available on A
 
 <hr>
 
-# 👨‍🚀 Frequently Asked Questions:
+# 👨‍🚀 Baby info: 
+
+**Baby boy** is due in mid-November. 
+
+Clothing planning tips:
+* 0-3 months: Nov - Feb
+* 3-6 months: Feb - May
+* 6-9 months: May - Aug
+* 9-12 months: Aug - Nov
+
+<hr>
+
+# Frequently Asked Questions:
 
 ### Do I have to dress up??
 
