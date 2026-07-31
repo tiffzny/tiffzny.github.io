@@ -1,7 +1,7 @@
 ---
 layout: default
 theme: baby-style
-title: "Tiffany's Baby Shower"
+title: "Tiffany & Blair's Baby Shower"
 ---
 
 # 🚀 Saturday August 22, 2026. Illinois; USA
