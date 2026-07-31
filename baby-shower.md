@@ -16,20 +16,16 @@ If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the
 # 🔭 Gift Ideas / Registries:
 
 * One could contribute **cash** to assist with some of our largest purchases (car seat, stroller) or to help us stock-up on diapers and wipes, perhaps in addition to your **favourite second-hand or pre-loved baby-suitable book?**
-
-Digital "cash" accepted by Tiffany via PayPal (tiffzny [at] gmail [dot] com) or via Venmo / Cashapp to Tiffany's cousin Ashlee @[usernames] who will share it at the Aug 22 shower.
+  * Digital "cash" accepted by Tiffany via PayPal (tiffzny [at] gmail [dot] com) or via Venmo / Cashapp to Tiffany's cousin Ashlee @[usernames] who will share it at the Aug 22 shower.
 
 * [Amazon USA Baby Registry List](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
-
-→ Do you intend to ship items to the **United States**? Use Amazon USA (Amazon.com); this Amazon.com list will ship to Tiffany's mom's house in Illinois by default (you don't need to put in her address!) or can be shipped to a custom address (like your own).
+  → Do you intend to ship items to the **United States**? Use Amazon USA (Amazon.com); this Amazon.com list will ship to Tiffany's mom's house in Illinois by default (you don't need to put in her address!) or can be shipped to a custom address (like your own).
 
 * [Amazon Canada Baby Registry List](https://www.amazon.ca/baby-reg/tiffany-fields-november-2026-dartmouth/IG8SSVX2ZG4O)
+  → Do you intend to ship items to **Canada**? Use Amazon Canada (Amazon.ca); this Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia by default (you don't need to put in our address!). 
+  → If for some reason you need a Canadian postal code to see what is available on Amazon.ca, use B3H3C3 (this isn't OUR postal code, but it is nearby and good enough for just browsing! Our actual address will populate from the registry)
 
-→ Do you intend to ship items to **Canada**? Use Amazon Canada (Amazon.ca); this Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia by default (you don't need to put in our address!). 
-
-If for some reason you need a Canadian postal code to see what is available on Amazon.ca, use B3H3C3 (this isn't OUR postal code, but it is nearby and good enough for just browsing! Our actual address will populate from the registry)
-
-* We are *very* into second-hand or pre-loved items for Baby. Do you have a favourite pre-loved book you want to share? Pre-loved outfits or other baby items that are still in good condition? These things would make excellent gifts. (New Baby clothes or items fine too!) :)
+* We are *very* into good-condition **second-hand or pre-loved items** for Baby. Do you have a favourite pre-loved book you want to share? Pre-loved outfits or other baby items that are still in good condition? These things would make excellent gifts. (New Baby clothes or items fine too!) :)
 
 <hr>
 
