@@ -25,10 +25,10 @@ You!! And Tiffany & Blair and friends and family!
 ## "Diaper" Raffle
 
 Though diapers and wipes are an extremely useful baby shower gift... We'd have a hard time taking many big diaper boxes back on the plane! There is a ***DAIPER RAFFLE*** set-up so you can contribute what you might have spend on a box of diapers or wipes. 
-* Cash, Check, PayPal, Venmo, or Cash App is great!
-  * PayPal: tiffzny [at] gmail [dot] com
-  * Venmo: @Ashlee-Boelens (last 4 digits = 7010)
-  * Cash App: @AshleeBoelens
+* Cash, Check, PayPal, Venmo, or Cash App is great
+  * **PayPal:** tiffzny [at] gmail [dot] com
+  * **Venmo:** @Ashlee-Boelens (last 4 digits = 7010)
+  * **Cash App:** @AshleeBoelens
  
 ## RSVP ?
 
@@ -46,7 +46,7 @@ If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the
 # 🔭 Gift Ideas / Registries:
 
 * One could contribute **cash** to assist with some of our largest purchases (car seat, stroller) or to help us stock-up on diapers and wipes, perhaps in addition to your **favourite second-hand or pre-loved baby-suitable book?**
-  * Digital "cash" accepted by Tiffany via PayPal (tiffzny [at] gmail [dot] com) or via Venmo / Cashapp to Tiffany's cousin Ashlee @[usernames] who will share it at the Aug 22 shower.
+  * Digital "cash" accepted by Tiffany via PayPal (tiffzny [at] gmail [dot] com) or via Venmo / Cashapp to Tiffany's cousin Ashlee (usernames at top of page) who will share it at the Aug 22 shower.
 
 * [Amazon USA Baby Registry List](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
   → Do you intend to ship items to the **United States**? Use Amazon USA (Amazon.com); this Amazon.com list will ship to Tiffany's mom's house in Illinois by default (you don't need to put in her address!) or can be shipped to a custom address (like your own).
