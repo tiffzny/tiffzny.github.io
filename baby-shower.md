@@ -39,8 +39,7 @@ If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the
 
 # 🔭 Gift Ideas / Registries:
 
-* One could contribute **cash** to assist with some of our largest purchases (car seat, stroller) or to help us stock-up on diapers and wipes, perhaps in addition to your **favourite second-hand or pre-loved baby-suitable book?**
-  * Digital "cash" accepted by Tiffany via PayPal (tiffzny [at] gmail [dot] com) or via Venmo / Cashapp to Tiffany's cousin Ashlee (usernames at top of page) who will share it at the Aug 22 shower.
+* One could contribute **cash** (or similar) to assist with some of our largest purchases (car seat, stroller) or to help us stock-up on diapers and wipes, perhaps in addition to your **favourite second-hand or pre-loved baby-suitable book?**
 
 * [Amazon USA Baby Registry List](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
   → Do you intend to ship items to the **United States**? Use Amazon USA (Amazon.com); this Amazon.com list will ship to Tiffany's mom's house in Illinois by default (you don't need to put in her address!) or can be shipped to a custom address (like your own).
