@@ -12,7 +12,7 @@ title: "Tiffany & Blair's Baby Shower"
 
 ## When 
 
-Saturday August 22nd + time details
+Saturday August 22nd, starting at **1pm**
 
 ## Where
 
