@@ -6,10 +6,36 @@ title: "Tiffany & Blair's Baby Shower"
 
 # 🚀 Saturday August 22, 2026. Illinois; USA
 
+## What
+
+### Celebrate upcoming Baby Boy with Tiffany & Blair! This is a *co-ed* event, everyone is invited to our Baby Shower to give us an opportunity to spend time with friends and family and help prep for all of Baby's needs!
+
+## When 
+
+### Saturday August 22nd + time details
+
+## Where
+
+### Location details
+
+## More details
+
+### Though diapers and wipes are an extremely useful baby shower gift... We'd have a hard time taking big diaper boxes back on the plane! There is a *DAIPER RAFFLE* set-up so you can contribute what you might have spend on a box of diapers or wipes. 
+* Cash, Check, PayPal, Venmo, or Cash App is great!
+  * PayPal: tiffzny [at] gmail [dot] com
+  * Venmo: @Ashlee-Boelens (last 4 digits = 7010)
+  * Cash App: @AshleeBoelens
+ 
+## RSVP ?
+
+### No need????
+
+<hr> 
+
 Honestly, we're just thrilled that you're willing to spend part of the day with us; we're excited to see all the family before the little one arrives (and before I'm too big to travel!).
 *We hope you'll come celebrate with us!*
 
-If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the Gifts links below. (And, thank you so much in advance!)
+If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the Gifts / Registries links below. (And, thank you so much in advance!)
 
 <hr>
 
@@ -49,7 +75,7 @@ This was my first question too. 🙏 Wear what you'd like, knowing that Tiffany 
 
 ### Can I Venmo you so you can get diapers or whatever else you need? 
 
-You can Venmo Tiffany's cousin Ashlee! Or Cashapp. She'll be sure it gets to us. [Usernames will be here, tbd]
+You can Venmo or Cash App Tiffany's cousin Ashlee! She'll be sure it gets to us (usernames @ top of page). 
 
 We Canadians do not have Venmo or Cashapp. Tiffany has PayPal to accept digital US dollars, email: tiffzny [at] gmail [dot] com. 
 
@@ -70,6 +96,10 @@ We are grateful to have collected a number of previously-loved items from friend
 ### But how are you going to get this all home on an airplane????
 
 Valid concern. The hope is we'll receive items that will fit into checked bags! We have *plenty* of luggage space to bring home on the plane; but checked bags have size limits! If you're interested in helping us with something larger than will typically fit in a checked bag (like a carseat or stroller), we'd be grateful, AND reach out to Tiffany's mom (Kris) or cousin Ashlee, or to Tiffany.
+
+### What are you gonna name him?
+
+We have no idea yet! Are you aware we have three dogs? The third puppy was without a name for nearly a week after we brought him home...
 
 <hr>
 
