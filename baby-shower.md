@@ -10,11 +10,9 @@ title: "Tiffany & Blair's Baby Shower"
 
 **Celebrate upcoming Baby Boy with Tiffany & Blair!** This is a ***co-ed*** event, everyone is invited to our Baby Shower to give us an opportunity to spend time with friends and family and help prep for all of Baby's needs!
 
-## When 
+## When / Where
 
 Saturday August 22nd, starting at **1pm**
-
-## Where
 
 Location details
 
