@@ -41,7 +41,7 @@ Clothing planning tips:
 
 <hr>
 
-# Frequently Asked Questions:
+## Frequently Asked Questions:
 
 ### Do I have to dress up??
 
