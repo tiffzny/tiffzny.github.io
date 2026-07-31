@@ -14,7 +14,7 @@ title: "Tiffany & Blair's Baby Shower"
 
 Saturday August 22nd, starting at **1pm**
 
-Location details
+Join us at Bethel Wesley UMC, 1201 13th St. Moline, IL. 
 
 ## Who
 
