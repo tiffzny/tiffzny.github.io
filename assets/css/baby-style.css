@@ -23,7 +23,8 @@ header -> added color: #fff; to make text WHITE
 nav a -> color: #9595c7
 nav -> font-size:
 h1 -> color: 
-h2, strong -> color:
+h2 -> color:
+strong -> color:
 a -> color:
 ------------------------------------ */
 body {
@@ -85,9 +86,10 @@ article {
 h2 {
 	margin-top: 1em;
 	padding-top: 1m;
-}
-h2, strong {
 	color: #49a3ad;
+}
+strong {
+	color: ##8e56bf; /*purple*/
 }
 b {
 	color: #222;
