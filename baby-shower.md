@@ -37,7 +37,7 @@ This was my first question too. 🙏 Wear what you'd like, knowing that Tiffany 
 
 ## Can I Venmo you so you can get diapers or whatever else you need? 
 
-You can Venmo my cousin Ashlee! Or Cashapp. She'll be sure it gets to me. [Usernames will be here, tbd]
+You can Venmo my cousin Ashlee! Or Cashapp. She'll be sure it gets to us. [Usernames will be here, tbd]
 
 We Canadians do not have Venmo or Cashapp. Tiffany has PayPal to accept digital US dollars, email: tiffzny [at] gmail [dot] com. 
 
@@ -49,7 +49,7 @@ In the US, bring them to the shower with you on Aug 22! Or, you can drop-off or 
 
 To Canada, you can ship directly to my home (Dartmouth, NS). 
 
-In order to not publish our addresses on the public internet... reach out to me or Blair, my Dad (Jason), my Mom (Kris), or my cousin Ashlee via various means to get specific addresses if you need! ❤️
+In order to not publish our addresses on the public internet... reach out to Tiffany or Blair, my Dad (Jason), my Mom (Kris), or my cousin Ashlee via various means to get specific addresses if you need! ❤️
 
 ## It looks like you're missing some items on your registry... What do you already have?
 
