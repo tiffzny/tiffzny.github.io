@@ -18,9 +18,13 @@ Saturday August 22nd + time details
 
 Location details
 
+## Who
+
+You!! And Tiffany & Blair and friends and family!
+
 ## More details
 
-Though diapers and wipes are an extremely useful baby shower gift... We'd have a hard time taking big diaper boxes back on the plane! There is a *DAIPER RAFFLE* set-up so you can contribute what you might have spend on a box of diapers or wipes. 
+Though diapers and wipes are an extremely useful baby shower gift... We'd have a hard time taking big diaper boxes back on the plane! There is a ***DAIPER RAFFLE*** set-up so you can contribute what you might have spend on a box of diapers or wipes. 
 * Cash, Check, PayPal, Venmo, or Cash App is great!
   * PayPal: tiffzny [at] gmail [dot] com
   * Venmo: @Ashlee-Boelens (last 4 digits = 7010)
