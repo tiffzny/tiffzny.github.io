@@ -26,7 +26,7 @@ Though diapers and wipes are an extremely useful baby shower gift... We'd have a
 * Cash, Check, PayPal, Venmo, or Cash App is great
   * **PayPal:** tiffzny [at] gmail [dot] com
   * **Venmo:** @Ashlee-Boelens (last 4 digits = 7010)
-  * **Cash App:** @AshleeBoelens
+  * **Cash App:** $AshleeBoelens
  
 ## RSVP ?
 
