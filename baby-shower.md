@@ -31,11 +31,11 @@ If for some reason you need a Canadian postal code to see what is available on A
 
 # 👨‍🚀 Frequently Asked Questions:
 
-## Do I have to dress up??
+### Do I have to dress up??
 
 This was my first question too. 🙏 Wear what you'd like, knowing that Tiffany and Blair will likely want to get a photo with you! :)
 
-## Can I Venmo you so you can get diapers or whatever else you need? 
+### Can I Venmo you so you can get diapers or whatever else you need? 
 
 You can Venmo my cousin Ashlee! Or Cashapp. She'll be sure it gets to us. [Usernames will be here, tbd]
 
@@ -43,7 +43,7 @@ We Canadians do not have Venmo or Cashapp. Tiffany has PayPal to accept digital 
 
 (For Canadians: e-transfers to the same email address are excellent! I do not have auto-deposit turned on so leave me an easy password please.)
 
-## Can I ship things directly to you?
+### Can I ship things directly to you?
 
 In the US, bring them to the shower with you on Aug 22! Or, you can drop-off or ship to my Mom's home (Moline, IL).
 
@@ -51,11 +51,11 @@ To Canada, you can ship directly to my home (Dartmouth, NS).
 
 In order to not publish our addresses on the public internet... reach out to Tiffany or Blair, my Dad (Jason), my Mom (Kris), or my cousin Ashlee via various means to get specific addresses if you need! ❤️
 
-## It looks like you're missing some items on your registry... What do you already have?
+### It looks like you're missing some items on your registry... What do you already have?
 
 We are grateful to have collected a number of previously-loved items from friends, colleagues, and neighbours. We already have a crib, bassinet, a "pack-and-play," and an assortment of pre-loved clothes. But, you're right. I'm probably missing other items! I'm doing this for the first time, ok?!
 
-## But how are you going to get this all home on an airplane????
+### But how are you going to get this all home on an airplane????
 
 Valid concern. The hope is we'll receive items that will fit into a checked bag! We have *plenty* of luggage space to bring home on the plane; but checked bags have size limits! If you're interested in helping us with something larger than will typically fit in a checked bag (like a carseat or stroller), we'd be grateful, AND reach out to my mom (Kris) or cousin Ashlee, or to Tiffany.
 
