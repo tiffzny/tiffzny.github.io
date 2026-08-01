@@ -11,9 +11,7 @@ background-blue: "#19253d"
 # 🚀 Saturday August 22, 2026. Illinois; USA
 
 * <strong style="color: {{ page.www-colour }};">What:</strong> **Celebrate upcoming Baby Boy with Tiffany & Blair!** This is a ***co-ed*** event, everyone is invited to our Baby Shower to give us an opportunity to spend time with friends and family and help prep for all of Baby's needs!
-* <strong style="color: {{ page.www-colour }};">When:</strong> Saturday August 22nd, starting at **1pm**
-* <strong style="color: {{ page.www-colour }};">Where:</strong> [Bethel Wesley UMC](https://maps.app.goo.gl/9P4KYGRDeV3sGHYT8?g_st=ic), 1201 13th St. Moline, IL.
-* <strong style="color: {{ page.www-colour }};">Who:</strong> You!! And Tiffany & Blair and friends and family!
+* <strong style="color: {{ page.www-colour }};">When / Where:</strong> Saturday August 22nd, starting at **1pm** at [Bethel Wesley UMC](https://maps.app.goo.gl/9P4KYGRDeV3sGHYT8?g_st=ic), 1201 13th St. Moline, IL.
 * <strong style="color: {{ page.www-colour }};">Info: "Diaper" Raffle:</strong> Though diapers and wipes are an extremely useful baby shower gift... We'd have a hard time taking many big diaper boxes back on the plane! There is a ***DAIPER RAFFLE*** set-up so you can contribute what you might have spend on a box of diapers or wipes. 
  * Cash, Check, PayPal, Venmo, or Cash App is great
    * **PayPal:** tiffzny [at] gmail [dot] com
@@ -23,22 +21,20 @@ background-blue: "#19253d"
 <hr> 
 
 Honestly, we're just thrilled that you're willing to spend part of the day with us; we're excited to see all the family before the little one arrives (and before I'm too big to travel!).
-*We hope you'll come celebrate with us!*
-
-If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the Gifts / Registries links below. (And, thank you so much in advance!)
+*We hope you'll come celebrate with us!* <font style="color: {{ page.www-colour }};">If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the Gifts / Registries links below.</font> (And, thank you so much in advance!)
 
 <hr>
 
 # 🔭 Gift Ideas / Registries:
 
+* [Amazon USA Baby Registry List](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
+  * Do you intend to ship items to the **United States**? Use Amazon USA (Amazon.com); this Amazon.com list will ship to Tiffany's mom's house in Illinois by default or can be shipped to a custom address (like your own).
+
 * One could contribute **cash** (or similar) to assist with some of our largest purchases (car seat, stroller) or to help us stock-up on diapers and wipes, perhaps in addition to your **favourite second-hand or pre-loved baby-suitable book?**
 
-* [Amazon USA Baby Registry List](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
-  → Do you intend to ship items to the **United States**? Use Amazon USA (Amazon.com); this Amazon.com list will ship to Tiffany's mom's house in Illinois by default (you don't need to put in her address!) or can be shipped to a custom address (like your own).
-
 * [Amazon Canada Baby Registry List](https://www.amazon.ca/baby-reg/tiffany-fields-november-2026-dartmouth/IG8SSVX2ZG4O)
-  → Do you intend to ship items to **Canada**? Use Amazon Canada (Amazon.ca); this Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia by default (you don't need to put in our address!). 
-  → If for some reason you need a Canadian postal code to see what is available on Amazon.ca, use B3H3C3 (this isn't OUR postal code, but it is nearby and good enough for just browsing! Our actual address will populate from the registry)
+  * Do you intend to ship items to **Canada**? Use Amazon Canada (Amazon.ca); this Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia by default. 
+  * If for some reason you need a Canadian postal code to see what is available on Amazon.ca, use B3H3C3 (this isn't OUR postal code, but it is nearby and good enough for just browsing! Our actual address will populate from the registry)
 
 * We are *very* into good-condition **second-hand or pre-loved items** for Baby. Do you have a favourite pre-loved book you want to share? Pre-loved outfits or other baby items that are still in good condition? These things would make excellent gifts. (New Baby clothes or items fine too!) :)
 
@@ -64,23 +60,17 @@ This was my first question too. 🙏 Wear what you'd like, knowing that Tiffany 
 
 ### Can I Venmo you so you can get diapers or whatever else you need? 
 
-You can Venmo or Cash App Tiffany's cousin Ashlee! She'll be sure it gets to us (usernames @ top of page). 
-
-We Canadians do not have Venmo or Cashapp. Tiffany has PayPal to accept digital US dollars, email: tiffzny [at] gmail [dot] com. 
-
-(For Canadians: e-transfers to the same email address are excellent! I do not have auto-deposit turned on so leave me an easy password please.)
+You can Venmo or Cash App Tiffany's cousin Ashlee! She'll be sure it gets to us (usernames @ top of page). (For Canadians: e-transfers to the same email address are excellent! I do not have auto-deposit turned on so leave me an easy password please.)
 
 ### Can I ship things directly to you?
 
-In the US, bring them to the shower with you on Aug 22! Or, you can drop-off or ship to Tiffany's Mom's home (Moline, IL).
-
-To Canada, you can ship directly to our home (Dartmouth, NS). 
+In the US, bring them to the shower with you on Aug 22! Or, you can drop-off or ship to Tiffany's Mom's home (Moline, IL). To Canada, you can ship directly to our home (Dartmouth, NS). 
 
 In order to not publish our addresses on the public internet... reach out to Tiffany or Blair, Tiffany's Dad (Jason) or Mom (Kris), or Tiffany's cousin Ashlee via various means to get specific addresses if you need! ❤️
 
 ### It looks like you're missing some items on your registry... What do you already have?
 
-We are grateful to have collected a number of previously-loved items from friends, colleagues, and neighbours. We already have a crib, bassinet, a "pack-and-play," and an assortment of pre-loved clothes. But, you're right. I'm probably missing other items! I'm doing this for the first time, ok?!
+We are grateful to have collected a number of previously-loved items from friends, colleagues, and neighbours. We already have a crib, bassinet, a "pack-and-play," and an assortment of pre-loved clothes. But, I'm probably missing other items! I'm doing this for the first time, ok?!
 
 ### But how are you going to get this all home on an airplane????
 
