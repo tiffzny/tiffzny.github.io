@@ -4,29 +4,19 @@ theme: baby-style
 title: "Tiffany & Blair's Baby Shower"
 ---
 
+<img alt="Header to invite that reads 'We are over the moon'" style="float: center; margin-right: 0em" width="100%" src="assets/img/baby-shower-invite-header-cropped.JPEG"/>
+
 # 🚀 Saturday August 22, 2026. Illinois; USA
 
-## What
-
-**Celebrate upcoming Baby Boy with Tiffany & Blair!** This is a ***co-ed*** event, everyone is invited to our Baby Shower to give us an opportunity to spend time with friends and family and help prep for all of Baby's needs!
-
-## When / Where
-
-Saturday August 22nd, starting at **1pm**
-
-Join us at [Bethel Wesley UMC](https://maps.app.goo.gl/9P4KYGRDeV3sGHYT8?g_st=ic), 1201 13th St. Moline, IL. 
-
-## Who
-
-You!! And Tiffany & Blair and friends and family!
-
-## "Diaper" Raffle
-
-Though diapers and wipes are an extremely useful baby shower gift... We'd have a hard time taking many big diaper boxes back on the plane! There is a ***DAIPER RAFFLE*** set-up so you can contribute what you might have spend on a box of diapers or wipes. 
-* Cash, Check, PayPal, Venmo, or Cash App is great
-  * **PayPal:** tiffzny [at] gmail [dot] com
-  * **Venmo:** @Ashlee-Boelens (last 4 digits = 7010)
-  * **Cash App:** $AshleeBoelens
+* **What:** **Celebrate upcoming Baby Boy with Tiffany & Blair!** This is a ***co-ed*** event, everyone is invited to our Baby Shower to give us an opportunity to spend time with friends and family and help prep for all of Baby's needs!
+* **When:** Saturday August 22nd, starting at **1pm**
+* **Where:** [Bethel Wesley UMC](https://maps.app.goo.gl/9P4KYGRDeV3sGHYT8?g_st=ic), 1201 13th St. Moline, IL.
+* **Who:** You!! And Tiffany & Blair and friends and family!
+* **Info: "Diaper" Raffle:** Though diapers and wipes are an extremely useful baby shower gift... We'd have a hard time taking many big diaper boxes back on the plane! There is a ***DAIPER RAFFLE*** set-up so you can contribute what you might have spend on a box of diapers or wipes. 
+ * Cash, Check, PayPal, Venmo, or Cash App is great
+   * **PayPal:** tiffzny [at] gmail [dot] com
+   * **Venmo:** @Ashlee-Boelens (last 4 digits = 7010)
+   * **Cash App:** $AshleeBoelens
 
 <hr> 
 
@@ -100,4 +90,4 @@ We have no idea yet! Are you aware we have three dogs? The third puppy was witho
 
 <hr>
 
-<img alt="Ultrasound image" style="float: left; margin-right: 1em" width="100%" src="assets/img/ultrasound.PNG"/>
+<img alt="Ultrasound image" style="float: center; margin-right: 0em" width="100%" src="assets/img/ultrasound.PNG"/>
