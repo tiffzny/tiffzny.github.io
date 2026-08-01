@@ -47,7 +47,8 @@ body {
 	grid-template-areas:
 		"header nav"
 		"ct ct";
-	background-color: #1c1c84;
+	/*background-color: #1c1c84;*/ /*blue*/
+	background-color: #19253d; /*matches invites*/
 }
 header {
 	margin: 0px;
