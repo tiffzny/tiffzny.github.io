@@ -2,14 +2,15 @@
 layout: default
 theme: baby-style
 title: "Tiffany & Blair's Baby Shower"
+blue-colour: "#2f4570"
 ---
 
-<img alt="Header to invite that reads 'We are over the moon'" style="float: center; margin-right: 0em" width="100%" src="assets/img/baby-shower-invite-header-cropped.JPEG"/>
+<img alt="Header to invite that reads 'We are over the moon'" style="float: center; margin-right: 0em" width="100%" src="assets/img/baby-shower-invite-header-cropped.jpeg"/>
 
 # 🚀 Saturday August 22, 2026. Illinois; USA
 
-* **What:** **Celebrate upcoming Baby Boy with Tiffany & Blair!** This is a ***co-ed*** event, everyone is invited to our Baby Shower to give us an opportunity to spend time with friends and family and help prep for all of Baby's needs!
-* **When:** Saturday August 22nd, starting at **1pm**
+* <strong style="color: {{ page.blue-colour }};">What:</strong> **Celebrate upcoming Baby Boy with Tiffany & Blair!** This is a ***co-ed*** event, everyone is invited to our Baby Shower to give us an opportunity to spend time with friends and family and help prep for all of Baby's needs!
+* <strong style="color: #2f4570;">When:</strong> Saturday August 22nd, starting at **1pm**
 * **Where:** [Bethel Wesley UMC](https://maps.app.goo.gl/9P4KYGRDeV3sGHYT8?g_st=ic), 1201 13th St. Moline, IL.
 * **Who:** You!! And Tiffany & Blair and friends and family!
 * **Info: "Diaper" Raffle:** Though diapers and wipes are an extremely useful baby shower gift... We'd have a hard time taking many big diaper boxes back on the plane! There is a ***DAIPER RAFFLE*** set-up so you can contribute what you might have spend on a box of diapers or wipes. 
