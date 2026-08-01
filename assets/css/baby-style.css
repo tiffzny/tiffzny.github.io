@@ -91,13 +91,14 @@ h2 {
 	font-size: 23px;
 }
 strong, b {
-	color: #49a3ad;
+	/*color: #49a3ad;*/
+	color: #4a9cae; /*light blue sorta from invite*/
 }
 h3 {
 	color: #43c7de;
 }
 h1 {
-	color: #65629c;
+	color: #19253d; /*matches invites*/
 	font-size: 26px;
 }
 a {
