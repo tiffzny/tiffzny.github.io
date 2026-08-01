@@ -3,6 +3,7 @@ layout: default
 theme: baby-style
 title: "Tiffany & Blair's Baby Shower"
 blue-colour: "#2f4570"
+background-blue: "#19253d"
 ---
 
 <img alt="Header to invite that reads 'We are over the moon'" style="float: center; margin-right: 0em" width="100%" src="assets/img/baby-shower-invite-header-cropped.jpeg"/>
