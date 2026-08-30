@@ -8,6 +8,7 @@ background-blue: "#19253d"
 
 <img alt="Header to invite that reads 'We are over the moon'" style="float: center; margin-right: 0em" width="100%" src="assets/img/baby-shower-invite-header-cropped.jpeg"/>
 
+<!-- COMMENTING OUT:
 # 🚀 Saturday August 22, 2026. Illinois; USA
 
 * <strong style="color: {{ page.www-colour }};">What:</strong> **Celebrate upcoming Baby Boy with Tiffany & Blair!** This is a ***co-ed*** event, everyone is invited to our Baby Shower to give us an opportunity to spend time with friends and family and help prep for all of Baby's needs!
@@ -22,6 +23,7 @@ background-blue: "#19253d"
 
 Honestly, we're just thrilled that you're willing to spend part of the day with us; we're excited to see all the family before the little one arrives (and before I'm too big to travel!).
 *We hope you'll come celebrate with us!* <font style="color: {{ page.www-colour }};">If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the Gifts / Registries links below.</font> (And, thank you so much in advance!)
+-->
 
 <hr>
 
