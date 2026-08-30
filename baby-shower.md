@@ -23,22 +23,24 @@ background-blue: "#19253d"
 
 Honestly, we're just thrilled that you're willing to spend part of the day with us; we're excited to see all the family before the little one arrives (and before I'm too big to travel!).
 *We hope you'll come celebrate with us!* <font style="color: {{ page.www-colour }};">If you're wanting to contribute to Baby Boy's supplies (and our sanity), see the Gifts / Registries links below.</font> (And, thank you so much in advance!)
--->
 
-<hr>
+ENDING COMMENT -->
 
 # 🔭 Gift Ideas / Registries:
 
+* [Amazon Canada Baby Registry List](https://www.amazon.ca/baby-reg/tiffany-fields-november-2026-dartmouth/IG8SSVX2ZG4O)
+  * This Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia by default. 
+
+<!-- COMMENTING OUT
 * [Amazon USA Baby Registry List](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
   * Do you intend to ship items to the **United States**? Use Amazon USA (Amazon.com); this Amazon.com list will ship to Tiffany's mom's house in Illinois by default or can be shipped to a custom address (like your own).
+-->
 
 * One could contribute **cash** (or similar) to assist with some of our largest purchases (car seat, stroller) or to help us stock-up on diapers and wipes, perhaps in addition to your **favourite second-hand or pre-loved baby-suitable book?**
 
-* [Amazon Canada Baby Registry List](https://www.amazon.ca/baby-reg/tiffany-fields-november-2026-dartmouth/IG8SSVX2ZG4O)
-  * Do you intend to ship items to **Canada**? Use Amazon Canada (Amazon.ca); this Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia by default. 
-  * If for some reason you need a Canadian postal code to see what is available on Amazon.ca, use B3H3C3 (this isn't OUR postal code, but it is nearby and good enough for just browsing! Our actual address will populate from the registry)
+* We are *very* into good-condition **second-hand or pre-loved items** for Baby. Do you have a favourite pre-loved book or see something on a registry list that you already have or can get second-hand? Excellent!
 
-* We are *very* into good-condition **second-hand or pre-loved items** for Baby. Do you have a favourite pre-loved book you want to share? Pre-loved outfits or other baby items that are still in good condition? These things would make excellent gifts. (New Baby clothes or items fine too!) :)
+* Note: we have **a lot** of baby clothes, especially 0-6-ish months. They're very cute, but know that we have many boxes of hand-me-down baby boy clothes already!
 
 <hr>
 
@@ -54,6 +56,7 @@ Clothing planning tips:
 
 <hr>
 
+<!-- COMMENTING OUT
 # Frequently Asked Questions:
 
 ### Do I have to dress up??
@@ -81,6 +84,8 @@ Valid concern. The hope is we'll receive items that will fit into checked bags! 
 ### What are you gonna name him?
 
 We have no idea yet! Are you aware we have three dogs? The third puppy was without a name for nearly a week after we brought him home...
+
+-->
 
 <hr>
 
