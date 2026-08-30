@@ -28,8 +28,7 @@ ENDING COMMENT -->
 
 # 🔭 Gift Ideas / Registries:
 
-* [Amazon Canada Baby Registry List](https://www.amazon.ca/baby-reg/tiffany-fields-november-2026-dartmouth/IG8SSVX2ZG4O)
-  * This Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia by default. 
+* [Amazon Canada Baby Registry List](https://www.amazon.ca/baby-reg/tiffany-fields-november-2026-dartmouth/IG8SSVX2ZG4O): This Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia by default. 
 
 <!-- COMMENTING OUT
 * [Amazon USA Baby Registry List](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
@@ -48,11 +47,13 @@ ENDING COMMENT -->
 
 **Baby boy** is due in mid-November. 
 
+<!-- COMMENTING OUT
 Clothing planning tips:
 * 0-3 months: Nov - Feb
 * 3-6 months: Feb - May
 * 6-9 months: May - Aug
 * 9-12 months: Aug - Nov
+-->
 
 <hr>
 
