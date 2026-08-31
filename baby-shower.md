@@ -28,7 +28,9 @@ ENDING COMMENT -->
 
 # 🔭 Gift Ideas / Registries:
 
-* [Amazon Canada Baby Registry List](https://www.amazon.ca/baby-reg/tiffany-fields-november-2026-dartmouth/IG8SSVX2ZG4O): This Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia by default. 
+* [Amazon Canada Baby Registry List](https://www.amazon.ca/baby-reg/tiffany-fields-november-2026-dartmouth/IG8SSVX2ZG4O): This Amazon Canada list will ship to Tiffany & Blair's home in Nova Scotia by default.
+
+* [Nurtured Halifax](https://www.nurtured.ca/pages/registry-pages?mrrid=5378307): Buy local in Halifax through this Nurtured Registry. 
 
 <!-- COMMENTING OUT
 * [Amazon USA Baby Registry List](https://www.amazon.com/baby-reg/tiffany-fields-november-2026-moline/23TWGBA0YDPJL)
